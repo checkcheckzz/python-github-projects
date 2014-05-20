@@ -1,0 +1,66 @@
+##Editor and Editor Enhancements 
+
+1. GitGutter  
+A sublime text 2/3 plugin to show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.  
+Project Source: https://github.com/jisaacks/GitGutter  
+Porject Homepage: http://www.jisaacks.com/gitgutter
+
+1. python-mode  
+Python-mode is a vim plugin that helps you to create python code very quickly.  
+Project Source: https://github.com/klen/python-mode#requirements
+
+1. sublime-text-git  
+Plugin for some git integration into sublime text  
+Project Source: https://github.com/kemayo/sublime-text-git  
+Project Homepage: https://github.com/kemayo/sublime-text-git/wiki
+
+1. PlainTasks  
+An opinionated todo-list plugin for Sublime Text editor.  
+Project Source: https://github.com/aziz/PlainTasks  
+Online Demo Address: http://courses.tutsplus.com/courses/perfect-workflow-in-sublime-text-2
+
+1. sublime-jsdocs  
+DocBlockr is a package for Sublime Text which makes writing documentation a breeze.  
+Project Source:  https://github.com/spadgos/sublime-jsdocs  
+
+1. gmate  
+Set of plugins and improvements to make Gedit a powerfull programmer text editor.  
+Project Source: https://github.com/gmate/gmate  
+
+1. sublimetext-markdown-preview  
+Preview and build your markdown files quickly in your web browser from sublime text.  
+Project Source: https://github.com/revolunet/sublimetext-markdown-preview  
+
+1. SideBarEnhancements  
+Enhancements to Sublime Text sidebar. Files and folders.  
+Project Source:  https://github.com/titoBouzout/SideBarEnhancements 
+
+1. SublimeREPL  
+Run an interpreter inside Sublime Text 2.  
+Project Source: https://github.com/wuub/SublimeREPL  
+Project Documentation: http://sublimerepl.readthedocs.org/en/latest/
+
+1. clang_complete  
+Vim plugin that use clang for completing C/C++ code.  
+Project Source: https://github.com/Rip-Rip/clang_complete  
+Project Homepage: http://www.vim.org/scripts/script.php?script_id=3302  
+
+1. BracketHighlighter  
+Bracket and tag highlighter for Sublime Text  
+Project Source: https://github.com/facelessuser/BracketHighlighter  
+
+1. ultisnips  
+UltiSnips is the ultimate solution for snippets in Vim. It has tons of features and is very fast.  
+Project Source: https://github.com/SirVer/ultisnips  
+   
+1. actualvim  
+Sublime Text input mode powered by Vim itself.   
+Project Source: https://github.com/lunixbochs/actualvim
+
+1. MarkdownEditing  
+Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.  
+Proejct Source: https://github.com/SublimeText-Markdown/MarkdownEditing   
+  
+1. AngularJS-sublime-package  
+AngularJS code completion, snippets, go to definition, quick panel search, and more.   
+Project Source: https://github.com/angular-ui/AngularJS-sublime-package 
