@@ -1,4 +1,4 @@
-*Top Python Repositories Collection and Classification
+#Top Python Repositories Collection and Classification
 
 
 ## <a name='toc'>Table of Contents</a>
@@ -159,7 +159,7 @@ Pyramid is a small, fast, down-to-earth, open source Python web framework.
 Project Source: https://github.com/Pylons/pyramid  
 Project Homepage: http://www.pylonsproject.org/  
 
-1.play1  
+1. play1  
 Play framework makes it easier to build Web applications with Java. It is a clean alternative to bloated Enterprise Java stacks.  
 Project Source: https://github.com/playframework/play1  
 Project Homepage: http://www.playframework.com/ 
@@ -1420,7 +1420,7 @@ the Python language as easy as Python itself.
 Project Source: https://github.com/cython/cython   
 Project Homepage: http://cython.org/  
 
-1.clojure-py  
+1. clojure-py  
 A implementation of Clojure in pure dynamic Python.  
 Project Source: https://github.com/halgari/clojure-py  
   
