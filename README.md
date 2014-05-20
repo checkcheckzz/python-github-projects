@@ -29,7 +29,7 @@
 * [Book](https://github.com/checkcheckzz/Python-open-projects/blob/master/Book.md)  
 * [Static Web Generator](https://github.com/checkcheckzz/Python-open-projects/blob/master/StaticWebGenerator.md) 
 * [Content Management System](https://github.com/checkcheckzz/Python-open-projects/blob/master/ContentManagementSystem.md)   
-* [Cool Application](#https://github.com/checkcheckzz/Python-open-projects/blob/master/Cool%20Application.md)
+* [Cool Application](https://github.com/checkcheckzz/Python-open-projects/blob/master/Cool%20Application.md)
 * [Game](https://github.com/checkcheckzz/Python-open-projects/blob/master/Game.md)
 * [Web Site Source](https://github.com/checkcheckzz/Python-open-projects/blob/master/WebSiteSource.md)
 * [Algorithm](https://github.com/checkcheckzz/Python-open-projects/blob/master/Algorithm.md)
