@@ -51,4 +51,11 @@ Project Homepage: https://django-merchant.readthedocs.org/en/latest/
 
 1. bitcoin-arbitrage  
 It gets order books from supported exchanges and calculate arbitrage opportunities between each markets. It takes market depth into account.   
-Project Source: https://github.com/maxme/bitcoin-arbitrage  
+Project Source: https://github.com/maxme/bitcoin-arbitrage 
+
+1. www.gittip.com  
+Gittip is a weekly gift exchange, helping to create a culture of generosity.  
+Project Source: https://github.com/gittip/www.gittip.com   
+Project Homepage: https://www.gittip.com/   
+
+ 

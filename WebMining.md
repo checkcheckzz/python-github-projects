@@ -14,7 +14,17 @@ Project Homepage: http://www.clips.ua.ac.be/pages/pattern
 Portia is a tool for visually scraping web sites without any programming knowledge.   
 Project Source: https://github.com/scrapinghub/portia
 
-1. httpbin  
-HTTP Request & Response Service, written in Python + Flask.  
-Project Source: https://github.com/kennethreitz/httpbin   
-Project Homepage: http://httpbin.org/  
+1. python-goose   
+Html Content / Article Extractor, web scrapping lib in Python.  
+Project Source: https://github.com/grangier/python-goose
+
+
+1. newspaper  
+News extraction, article extraction and content curation in python.  
+Project Source: https://github.com/codelucas/newspaper  
+Project Homepage: http://newspaper.readthedocs.org/en/latest/ 
+
+1. gensim  
+Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora.   
+Project Source: https://github.com/piskvorky/gensim  
+Project Homepage: http://radimrehurek.com/gensim/  

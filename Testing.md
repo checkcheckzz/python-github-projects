@@ -19,3 +19,12 @@ Python-based continuous integration testing framework
 Project Source: https://github.com/buildbot/buildbot  
 Project Homepage: http://buildbot.net/  
 
+1. locust   
+Locust is an easy-to-use, distributed, user load testing tool.  
+Project Source: https://github.com/locustio/locust  
+Project Homepage: http://locust.io/  
+
+1. sublime-text-2-ruby-tests  
+Sublime Text 2 plugin for running ruby tests.   
+Project Source: https://github.com/maltize/sublime-text-2-ruby-tests  
+     

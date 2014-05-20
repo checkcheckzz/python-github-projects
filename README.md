@@ -1,9 +1,10 @@
 ##Python Repositories Collection and Classification
 
-If you want to build a cool Python project from scratch, the suitable start point is to find a related project.  
+If you want to build a cool Python project from scratch, a good start point is to find a related project.  
 
 This repository lists the hot (by number of stars) projects on Github. I will add new projects gradually. The classification is based
 on the project's main purpose. If a project is a client for certain database, I put it under the database category.
+
 As you know, a project may belong to several categories. If you think that a project is listed under a wrong category
 or a new category should be added, please open an issue. If you want to add a new project to certain categories, just
 send me a pull request and follow the [contribution guide](https://github.com/checkcheckzz/Python-open-projects/wiki/Contribution).

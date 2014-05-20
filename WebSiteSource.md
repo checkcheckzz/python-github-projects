@@ -15,3 +15,9 @@ The open-source core of Pinry, a tiling image board system for people who want t
 Project Source: https://github.com/pinry/pinry   
 Project Homepage: http://getpinry.com/  
 
+1. class2go  
+Class2Go is Stanford's internal open-source platform for on-line education.  
+Project source: https://github.com/Stanford-Online/class2go  
+Project Homepage: http://class2go.stanford.edu/  
+
+

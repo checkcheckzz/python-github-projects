@@ -80,12 +80,26 @@ Extendable, adaptable rewrite of django.contrib.admin.
 Project Source: https://github.com/pydanny/django-admin2    
 Proeject Documentation: http://django-admin2.readthedocs.org/en/latest/ 
 
+1. django-admin-bootstrapped  
+A Django admin theme using Bootstrap. It doesn't need any kind of modification on your side, just add it to the installed apps.  
+Project Source: https://github.com/django-admin-bootstrapped/django-admin-bootstrapped  
+Project Homepage: https://github.com/django-admin-bootstrapped/django-admin-bootstrapped  
+
 1. Thumbnails for Django  
 Thumbnails for Django.  
 Project Source: https://github.com/mariocesar/sorl-thumbnail  
-Project Documentation: http://sorl-thumbnail.readthedocs.org/en/latest/  
-    
- 
+Project Documentation: http://sorl-thumbnail.readthedocs.org/en/latest/
+
+1. easy-thumbnails  
+A powerful, yet easy to implement thumbnailing application for Django.  
+Project Source: https://github.com/SmileyChris/easy-thumbnails   
+Project Documentation: http://easy-thumbnails.readthedocs.org/en/2.0.1/  
+
+1. django-guardian  
+django-guardian is implementation of per object permissions [1] as authorization backend which is supported since Django 1.2.  
+Proeject Source: https://github.com/lukaszb/django-guardian  
+Project Documentation: http://django-guardian.readthedocs.org/en/v1.2/  
+     
 1. flask  
 Flask is a microframework for Python based on Werkzeug and Jinja2.  
 Project Source: https://github.com/mitsuhiko/flask  
@@ -96,6 +110,10 @@ Flask-RESTful provides the building blocks for creating a great REST API.
 Project Source: https://github.com/twilio/flask-restful  
 Project Documentation: http://flask-restful.readthedocs.org/en/latest/  
 
+1. flask-admin   
+Simple and extensible administrative interface framework for Flask.  
+Project Source: https://github.com/mrjoes/flask-admin   
+Project Documentation: https://flask-admin.readthedocs.org/en/latest/
 
 1. eve  
 Eve is an out-of-the-box, highly customizable and fully featured RESTful Web API framework that you can use to effortlessly build and deploy your own APIs.  

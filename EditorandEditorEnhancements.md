@@ -1,7 +1,7 @@
 ##Editor and Editor Enhancements 
 
 1. GitGutter  
-A sublime text 2/3 plugin to show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.  
+A sublime text plugin to show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.  
 Project Source: https://github.com/jisaacks/GitGutter  
 Porject Homepage: http://www.jisaacks.com/gitgutter
 
@@ -36,7 +36,7 @@ Enhancements to Sublime Text sidebar. Files and folders.
 Project Source:  https://github.com/titoBouzout/SideBarEnhancements 
 
 1. SublimeREPL  
-Run an interpreter inside Sublime Text 2.  
+Run an interpreter inside Sublime Text.  
 Project Source: https://github.com/wuub/SublimeREPL  
 Project Documentation: http://sublimerepl.readthedocs.org/en/latest/
 
@@ -64,3 +64,5 @@ Proejct Source: https://github.com/SublimeText-Markdown/MarkdownEditing
 1. AngularJS-sublime-package  
 AngularJS code completion, snippets, go to definition, quick panel search, and more.   
 Project Source: https://github.com/angular-ui/AngularJS-sublime-package 
+
+

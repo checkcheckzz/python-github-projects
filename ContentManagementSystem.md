@@ -9,7 +9,6 @@ Project Homepage: https://www.django-cms.org/en/
 Simple yet powerful and really extendable application for managing a blog within your Django Web site.  
 Project Source: https://github.com/Fantomas42/django-blog-zinnia   
 
-
 1. wagtail  
 A new Django content management system  
 Proeject Source: https://github.com/torchbox/wagtail  

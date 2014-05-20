@@ -10,7 +10,7 @@ Project Source: https://github.com/mongodb/mongo-python-driver
 Project Homepage: http://api.mongodb.org/python/
 
 1. sandman  
-Sandman frees the data in your existing database. Search and edit your data right in your browser using Sandman's beautiful admin interface.  
+Sandman lets you interact with your database through a simple website and takes seconds to setup.  
 Project Source: https://github.com/jeffknupp/sandman 
 Project Homepage: http://www.sandman.io/  
 

@@ -18,3 +18,9 @@ Project Source: https://github.com/mikedewar/d3py
 Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.   
 Project Source: https://github.com/mwaskom/seaborn   
 Project Homepage: http://stanford.edu/~mwaskom/software/seaborn/
+
+1. prettyplotlib   
+Python matplotlib-enhancer library which painlessly creates beautiful default matplotlib plots.   
+Project Source: https://github.com/olgabot/prettyplotlib   
+Project Homepage: http://olgabot.github.io/prettyplotlib/  
+

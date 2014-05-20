@@ -43,3 +43,8 @@ Project Source: https://github.com/mothran/bunny
 SleekXMPP is an Extensible Messaging and Presence Protocol (XMPP) library.  
 Project Source: https://github.com/fritzy/SleekXMPP  
 
+1. httpbin  
+HTTP Request & Response Service, written in Python + Flask.  
+Project Source: https://github.com/kennethreitz/httpbin   
+Project Homepage: http://httpbin.org/  
+

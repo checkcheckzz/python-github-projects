@@ -327,4 +327,27 @@ Project Source: https://github.com/nvbn/everpad
 1. redo  
 redo is a competitor to the long-lived, but sadly imperfect, make program.  
 Project Source: https://github.com/apenwarr/redo   
+
+1. furl  
+furl is a small Python library that makes manipulating URLs simple.  
+Project Source: https://github.com/gruns/furl  
+
+1. brackets-shell   
+CEF3-based application shell for Brackets.   
+Project Source: https://github.com/adobe/brackets-shell   
+Project Homepage: http://brackets.io/  
+
+1. python-markdown2  
+A fast and complete implementation of Markdown in Python.  
+Project Source: https://github.com/trentm/python-markdown2  
+
+1. fabtools   
+Tools for writing awesome Fabric files.  
+Project Source: https://github.com/ronnix/fabtools  
+Project Documentation: http://fabtools.readthedocs.org/en/0.17.0/  
+
+
+ 
+    
+
     
