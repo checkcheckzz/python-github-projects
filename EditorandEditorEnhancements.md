@@ -65,4 +65,19 @@ Proejct Source: https://github.com/SublimeText-Markdown/MarkdownEditing
 AngularJS code completion, snippets, go to definition, quick panel search, and more.   
 Project Source: https://github.com/angular-ui/AngularJS-sublime-package 
 
+1. powerline
+Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.  
+Project Source: https://github.com/Lokaltog/powerline  
+Project Documentation: https://powerline.readthedocs.org/en/latest/
+
+1. SublimeCodeIntel  
+Full-featured code intelligence and smart autocomplete engine  
+Project Source: https://github.com/SublimeCodeIntel/SublimeCodeIntel  
+Project Homepage: http://sublimecodeintel.github.io/SublimeCodeIntel/
+
+1. jedi  
+Jedi is an autocompletion tool for Python that can be used in IDEs/editors. Jedi works. Jedi is fast.  
+Project Source: https://github.com/davidhalter/jedi  
+Project Documentation: http://jedi.jedidjah.ch/en/latest/  
+
 

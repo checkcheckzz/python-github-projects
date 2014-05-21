@@ -18,3 +18,8 @@ Project Documentation: https://pypi.python.org/pypi/inbox/
 1. gmail  
 A Pythonic interface to Google's GMail, with all the tools you'll need.   
 Project Source: https://github.com/charlierguo/gmail  
+
+1. gmvault  
+Gmvault is a tool for backing up your gmail account and never lose email correspondence.   
+Project Source: https://github.com/gaubert/gmvault  
+Project Website: http://gmvault.org/

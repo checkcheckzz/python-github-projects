@@ -48,3 +48,12 @@ HTTP Request & Response Service, written in Python + Flask.
 Project Source: https://github.com/kennethreitz/httpbin   
 Project Homepage: http://httpbin.org/  
 
+1. sshuttle  
+Transparent proxy server that works as a poor man's VPN.  
+Project Source: https://github.com/apenwarr/sshuttle  
+
+1. LANs.py  
+Automatically find the most active WLAN users then spy on one of them and/or inject arbitrary HTML/JS into pages they visit  
+Project Source: https://github.com/DanMcInerney/LANs.py  
+
+

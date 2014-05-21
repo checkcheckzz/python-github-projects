@@ -14,7 +14,8 @@ send me a pull request and follow the [contribution guide](https://github.com/ch
 
 * [Web Framework and Related Tool](https://github.com/checkcheckzz/Python-open-projects/blob/master/WebFrameworkandRelatedTool.md)
 * [Network](https://github.com/checkcheckzz/Python-open-projects/blob/master/Network.md)
-* [Web Mining](https://github.com/checkcheckzz/Python-open-projects/blob/master/WebMining.md)  
+* [Web Mining](https://github.com/checkcheckzz/Python-open-projects/blob/master/WebMining.md)
+* [Command Line Tools]()  
 * [Tool and Utilities](https://github.com/checkcheckzz/Python-open-projects/blob/master/ToolandUtilities.md)
 * [Big Data and Cloud](https://github.com/checkcheckzz/Python-open-projects/blob/master/BigDataandCloud.md)
 * [Authentication](https://github.com/checkcheckzz/Python-open-projects/blob/master/Authentication.md)
@@ -33,6 +34,8 @@ send me a pull request and follow the [contribution guide](https://github.com/ch
 * [Chat](https://github.com/checkcheckzz/Python-open-projects/blob/master/Chat.md) 
 * [Mail](https://github.com/checkcheckzz/Python-open-projects/blob/master/Mail.md)
 * [Audio](https://github.com/checkcheckzz/Python-open-projects/blob/master/Audio.md)
+* [Image]()
+* [Useful API]()
 * [Video](https://github.com/checkcheckzz/Python-open-projects/blob/master/Video.md)
 * [DataBase and Related Tools](https://github.com/checkcheckzz/Python-open-projects/blob/master/DataBaseandRelatedTools.md)
 * [Book](https://github.com/checkcheckzz/Python-open-projects/blob/master/Book.md)  

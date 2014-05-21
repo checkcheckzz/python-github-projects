@@ -166,3 +166,31 @@ Project Homepage: https://dpxdt-test.appspot.com/
 1. scales   
 Tracks server state and statistics, allowing you to see what your server is doing.   
 Project Source: https://github.com/Cue/scales  
+
+1. ngxtop  
+Real-time metrics for nginx server  
+Project Source: https://github.com/lebinh/ngxtop
+
+1. autojump  
+A faster way to navigate your filesystem.  
+Project Source: https://github.com/joelthelion/autojump  
+
+1. bup  
+Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication.  
+Project Source: https://github.com/bup/bup
+
+1. logster  
+Logster is a utility for reading log files and generating metrics in Graphite or Ganglia or Amazon CloudWatch.   
+Project Source: https://github.com/etsy/logster  
+
+1. mackup  
+Keep your application settings in sync.  
+Project Source: https://github.com/lra/mackup  
+Project Documentation:  https://github.com/lra/mackup/tree/master/doc  
+
+1. pidcat  
+Colored logcat script which only shows log entries for a specific application package.  
+Project Source: https://github.com/JakeWharton/pidcat
+
+  
+
