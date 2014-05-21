@@ -14,3 +14,7 @@ Prject Documentation: http://luigi.readthedocs.org/en/latest/api/luigi.html
 Task queues are used as a mechanism to distribute work across threads or machines.  
 Project Source: https://github.com/celery/celery  
 Project Homepage: http://www.celeryproject.org/
+
+1. schedule   
+An in-process scheduler for periodic jobs that uses the builder pattern for configuration.   
+Project Source: https://github.com/dbader/schedule    

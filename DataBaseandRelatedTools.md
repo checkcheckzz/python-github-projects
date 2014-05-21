@@ -36,5 +36,14 @@ Project Homepage: http://openstack.org/
 1. BayesDB  
 A Bayesian database table for querying the probable implications of data as easily as SQL databases query the data itself.   
 Project Source: https://github.com/mit-probabilistic-computing-project/BayesDB   
-Project Homepage: http://probcomp.csail.mit.edu/bayesdb/  
+Project Homepage: http://probcomp.csail.mit.edu/bayesdb/
 
+1. mongoengine   
+A Python Object-Document-Mapper for working with MongoDB.   
+Project Source: https://github.com/MongoEngine/mongoengine   
+Project Homepage: http://mongoengine.org/  
+
+1. redis-faina   
+A query analyzer that parses Redis' MONITOR command for counter/timing stats about query patterns.  
+Project Source: https://github.com/Instagram/redis-faina       
+  

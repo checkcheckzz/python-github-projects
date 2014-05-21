@@ -211,8 +211,11 @@ Tools for writing awesome Fabric files.
 Project Source: https://github.com/ronnix/fabtools  
 Project Documentation: http://fabtools.readthedocs.org/en/0.17.0/  
 
+1. scrapely   
+Scrapely is a library for extracting structured data from HTML pages.   
+Project Source: https://github.com/scrapy/scrapely
 
- 
-    
-
-    
+1. objc_dep  
+Graph the import dependancies in an Objective-C project.  
+Project Source: https://github.com/nst/objc_dep  
+            

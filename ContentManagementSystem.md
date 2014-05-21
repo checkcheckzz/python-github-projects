@@ -22,6 +22,3 @@ Project Homepage: http://mezzanine.jupo.org/
 1. v2ex  
 Project Babel 2 is an open source software package for creating and supporting communities.  
 Project Source: https://github.com/livid/v2ex  
-
-
- 

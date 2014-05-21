@@ -19,5 +19,3 @@ Project Homepage: http://getpinry.com/
 Class2Go is Stanford's internal open-source platform for on-line education.  
 Project source: https://github.com/Stanford-Online/class2go  
 Project Homepage: http://class2go.stanford.edu/  
-
-

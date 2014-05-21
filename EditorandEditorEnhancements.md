@@ -78,6 +78,9 @@ Project Homepage: http://sublimecodeintel.github.io/SublimeCodeIntel/
 1. jedi  
 Jedi is an autocompletion tool for Python that can be used in IDEs/editors. Jedi works. Jedi is fast.  
 Project Source: https://github.com/davidhalter/jedi  
-Project Documentation: http://jedi.jedidjah.ch/en/latest/  
+Project Documentation: http://jedi.jedidjah.ch/en/latest/
 
+1. JsFormat  
+JsFormat is a javascript formatting plugin for Sublime Text 2.  
+Project Source: https://github.com/jdc0589/JsFormat    
 

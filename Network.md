@@ -55,5 +55,3 @@ Project Source: https://github.com/apenwarr/sshuttle
 1. LANs.py  
 Automatically find the most active WLAN users then spy on one of them and/or inject arbitrary HTML/JS into pages they visit  
 Project Source: https://github.com/DanMcInerney/LANs.py  
-
-

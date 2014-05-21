@@ -23,4 +23,3 @@ Project Homepage: http://stanford.edu/~mwaskom/software/seaborn/
 Python matplotlib-enhancer library which painlessly creates beautiful default matplotlib plots.   
 Project Source: https://github.com/olgabot/prettyplotlib   
 Project Homepage: http://olgabot.github.io/prettyplotlib/  
-

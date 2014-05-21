@@ -1,6 +1,5 @@
 ##Command Line Tools
 
-
 1. docopt  
 Pythonic command line arguments parser, that will make you smile.  
 Project Source: https://github.com/docopt/docopt  
@@ -39,6 +38,3 @@ Project Homepage: http://www.paulhammond.org/webkit2png/
 A command-line utility that creates projects from cookiecutters (project templates).  
 Project Source: https://github.com/audreyr/cookiecutter   
 Project Documentation: http://cookiecutter.readthedocs.org/en/latest/
-
-
-

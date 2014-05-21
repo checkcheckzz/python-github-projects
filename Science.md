@@ -68,6 +68,9 @@ Project Homepage: http://textblob.readthedocs.org/en/dev/
 1. jieba   
 Chinese text segmentation.  
 Project Source: https://github.com/fxsjy/jieba  
-Online Demo Address: http://jiebademo.ap01.aws.af.cm/  
+Online Demo Address: http://jiebademo.ap01.aws.af.cm/ 
 
-
+1. statsmodels  
+Statsmodels is a Python package that provides a complement to scipy for statistical computations including descriptive statistics and estimation and inference for statistical models.   
+Project Source: https://github.com/statsmodels/statsmodels  
+Project Documentation: http://statsmodels.sourceforge.net/devel/  

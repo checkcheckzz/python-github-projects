@@ -1,6 +1,5 @@
 #Authentication
 
-
 1. python-oauth2  
 A fully tested, abstract interface to creating OAuth clients and servers.  
 Project Source: https://github.com/simplegeo/python-oauth2  

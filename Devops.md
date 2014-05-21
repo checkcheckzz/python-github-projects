@@ -191,6 +191,3 @@ Project Documentation:  https://github.com/lra/mackup/tree/master/doc
 1. pidcat  
 Colored logcat script which only shows log entries for a specific application package.  
 Project Source: https://github.com/JakeWharton/pidcat
-
-  
-

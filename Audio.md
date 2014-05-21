@@ -18,4 +18,3 @@ Project Homepage: http://www.mopidy.com/
 Client code for the Jasper voice computing platform. Jasper is an open source platform for developing always-on, voice-controlled applications.  
 Project Source: https://github.com/jasperproject/jasper-client  
 Project Homepage: http://jasperproject.github.io/  
-

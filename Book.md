@@ -29,5 +29,4 @@ Online Book Address: http://www.packtpub.com/building-machine-learning-systems-w
 Sublime Text 2 setup used in the Ruby on Rails Tutorial.   
 Project Source: https://github.com/mhartl/rails_tutorial_sublime_text   
 Online Book Address: http://www.railstutorial.org/   
-
    

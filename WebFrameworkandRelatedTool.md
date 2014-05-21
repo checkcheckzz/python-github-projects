@@ -96,9 +96,14 @@ Project Source: https://github.com/SmileyChris/easy-thumbnails
 Project Documentation: http://easy-thumbnails.readthedocs.org/en/2.0.1/  
 
 1. django-guardian  
-django-guardian is implementation of per object permissions [1] as authorization backend which is supported since Django 1.2.  
+django-guardian is implementation of per object permissions as authorization backend which is supported since Django 1.2.  
 Proeject Source: https://github.com/lukaszb/django-guardian  
-Project Documentation: http://django-guardian.readthedocs.org/en/v1.2/  
+Project Documentation: http://django-guardian.readthedocs.org/en/v1.2/ 
+
+1. django-braces  
+Mixins for Django's class-based views.  
+Project Source: https://github.com/brack3t/django-braces   
+Project Documentation: http://django-braces.readthedocs.org/en/latest/index.html  
      
 1. flask  
 Flask is a microframework for Python based on Werkzeug and Jinja2.  
@@ -115,6 +120,10 @@ Simple and extensible administrative interface framework for Flask.
 Project Source: https://github.com/mrjoes/flask-admin   
 Project Documentation: https://flask-admin.readthedocs.org/en/latest/
 
+1. flask-appengine-template   
+Boilerplate project template for running Flask on Google App Engine.  
+Project Source: https://github.com/kamalgill/flask-appengine-template  
+   
 1. eve  
 Eve is an out-of-the-box, highly customizable and fully featured RESTful Web API framework that you can use to effortlessly build and deploy your own APIs.  
 Project Source: https://github.com/nicolaiarocci/eve  
