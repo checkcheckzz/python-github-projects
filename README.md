@@ -40,9 +40,10 @@ send me a pull request and follow the [contribution guide](https://github.com/ch
 * [Static Web Generator](https://github.com/checkcheckzz/Python-open-projects/blob/master/StaticWebGenerator.md)  
 * [Testing](https://github.com/checkcheckzz/Python-open-projects/blob/master/Testing.md)
 * [Tool and Utilities](https://github.com/checkcheckzz/Python-open-projects/blob/master/ToolandUtilities.md)
+* [Useful API](https://github.com/checkcheckzz/Python-open-projects/blob/master/UsefulAPI.md)
 * [Video](https://github.com/checkcheckzz/Python-open-projects/blob/master/Video.md) 
 * [Visualization](https://github.com/checkcheckzz/Python-open-projects/blob/master/Visualization.md) 
 * [Web Framework and Related Tool](https://github.com/checkcheckzz/Python-open-projects/blob/master/WebFrameworkandRelatedTool.md)
 * [Web Mining](https://github.com/checkcheckzz/Python-open-projects/blob/master/WebMining.md)
 * [Web Site Source](https://github.com/checkcheckzz/Python-open-projects/blob/master/WebSiteSource.md)
-* [Useful API](https://github.com/checkcheckzz/Python-open-projects/blob/master/UsefulAPI.md)
+
