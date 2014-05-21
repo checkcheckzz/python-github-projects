@@ -27,6 +27,7 @@ send me a pull request and follow the [contribution guide](https://github.com/ch
 * [Debugging](https://github.com/checkcheckzz/Python-open-projects/blob/master/Debugging.md)
 * [Devops](https://github.com/checkcheckzz/Python-open-projects/blob/master/Devops.md)
 * [Editor and Editor Enhancements](https://github.com/checkcheckzz/Python-open-projects/blob/master/EditorandEditorEnhancements.md)
+* [Game](https://github.com/checkcheckzz/Python-open-projects/blob/master/Game.md)
 * [Git](https://github.com/checkcheckzz/Python-open-projects/blob/master/Git.md)
 * [Icon](https://github.com/checkcheckzz/Python-open-projects/blob/master/Icon.md)
 * [Image](https://github.com/checkcheckzz/Python-open-projects/blob/master/Image.md)
@@ -35,45 +36,13 @@ send me a pull request and follow the [contribution guide](https://github.com/ch
 * [Network](https://github.com/checkcheckzz/Python-open-projects/blob/master/Network.md)
 * [Other](https://github.com/checkcheckzz/Python-open-projects/blob/master/Other.md)  
 * [Package Manager](https://github.com/checkcheckzz/Python-open-projects/blob/master/PackageManager.md)
-* [Science](https://github.com/checkcheckzz/Python-open-projects/blob/master/Science.md)  
+* [Science](https://github.com/checkcheckzz/Python-open-projects/blob/master/Science.md) 
+* [Static Web Generator](https://github.com/checkcheckzz/Python-open-projects/blob/master/StaticWebGenerator.md)  
 * [Testing](https://github.com/checkcheckzz/Python-open-projects/blob/master/Testing.md)
 * [Tool and Utilities](https://github.com/checkcheckzz/Python-open-projects/blob/master/ToolandUtilities.md)
+* [Video](https://github.com/checkcheckzz/Python-open-projects/blob/master/Video.md) 
 * [Visualization](https://github.com/checkcheckzz/Python-open-projects/blob/master/Visualization.md) 
 * [Web Framework and Related Tool](https://github.com/checkcheckzz/Python-open-projects/blob/master/WebFrameworkandRelatedTool.md)
 * [Web Mining](https://github.com/checkcheckzz/Python-open-projects/blob/master/WebMining.md)
- 
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* [Useful API](https://github.com/checkcheckzz/Python-open-projects/blob/master/UsefulAPI.md)
-* [Video](https://github.com/checkcheckzz/Python-open-projects/blob/master/Video.md)
-
- 
-* [Static Web Generator](https://github.com/checkcheckzz/Python-open-projects/blob/master/StaticWebGenerator.md) 
-
-
-* [Game](https://github.com/checkcheckzz/Python-open-projects/blob/master/Game.md)
 * [Web Site Source](https://github.com/checkcheckzz/Python-open-projects/blob/master/WebSiteSource.md)
-
-
-
-  
-   
-
+* [Useful API](https://github.com/checkcheckzz/Python-open-projects/blob/master/UsefulAPI.md)
