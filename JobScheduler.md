@@ -17,4 +17,11 @@ Project Homepage: http://www.celeryproject.org/
 
 1. schedule   
 An in-process scheduler for periodic jobs that uses the builder pattern for configuration.   
-Project Source: https://github.com/dbader/schedule    
+Project Source: https://github.com/dbader/schedule   
+
+1. pika   
+Pure Python RabbitMQ/AMQP 0-9-1 client library   
+Project Source: https://github.com/pika/pika   
+Project Documentation: http://pika.readthedocs.org/en/0.9.13/  
+  
+     

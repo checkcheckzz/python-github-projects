@@ -55,3 +55,9 @@ Project Source: https://github.com/apenwarr/sshuttle
 1. LANs.py  
 Automatically find the most active WLAN users then spy on one of them and/or inject arbitrary HTML/JS into pages they visit  
 Project Source: https://github.com/DanMcInerney/LANs.py  
+
+1. grequests   
+GRequests allows you to use Requests with Gevent to make asynchronous HTTP Requests easily.  
+Project Source: https://github.com/kennethreitz/grequests   
+Project Homepage: https://pypi.python.org/pypi/grequests/  
+

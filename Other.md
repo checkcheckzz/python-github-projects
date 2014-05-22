@@ -30,5 +30,11 @@ Project Homepage: http://cython.org/
 
 1. clojure-py  
 A implementation of Clojure in pure dynamic Python.  
-Project Source: https://github.com/halgari/clojure-py  
+Project Source: https://github.com/halgari/clojure-py    
+
+1. Theano   
+Optimizing GPU-meta-programming code generating array oriented optimizing math compiler in Python.  
+Project Source: https://github.com/Theano/Theano   
+Project Homepage: http://www.deeplearning.net/software/theano/   
+ 
   

@@ -85,6 +85,11 @@ A Django admin theme using Bootstrap. It doesn't need any kind of modification o
 Project Source: https://github.com/django-admin-bootstrapped/django-admin-bootstrapped  
 Project Homepage: https://github.com/django-admin-bootstrapped/django-admin-bootstrapped  
 
+1. django-model-utils   
+Django model mixins and utilities.  
+Project Source: https://github.com/carljm/django-model-utils   
+Project Documentation: https://django-model-utils.readthedocs.org/en/latest/   
+
 1. Thumbnails for Django  
 Thumbnails for Django.  
 Project Source: https://github.com/mariocesar/sorl-thumbnail  
@@ -152,4 +157,10 @@ Project Homepage: http://www.pylonsproject.org/
 1. play1  
 Play framework makes it easier to build Web applications with Java. It is a clean alternative to bloated Enterprise Java stacks.  
 Project Source: https://github.com/playframework/play1  
-Project Homepage: http://www.playframework.com/ 
+Project Homepage: http://www.playframework.com/  
+
+1. web2py   
+web2py is a free open source full-stack framework for rapid development of fast, scalable, secure and portable database-driven web-based applications.   
+Project source: https://github.com/web2py/web2py   
+Project Homepage: http://www.web2py.com/  
+ 

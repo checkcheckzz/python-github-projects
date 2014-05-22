@@ -218,4 +218,21 @@ Project Source: https://github.com/scrapy/scrapely
 1. objc_dep  
 Graph the import dependancies in an Objective-C project.  
 Project Source: https://github.com/nst/objc_dep  
+
+1. mincss  
+Tool for finding out which CSS selectors you're NOT using.  
+Project Source: https://github.com/peterbe/mincss   
+Project Homepage: http://peterbe.github.io/mincss/  
+
+1. dnsyo  
+Check your DNS against over 1500 global DNS servers.  
+Project Source: https://github.com/samarudge/dnsyo  
+Project Homepage: http://samarudge.github.io/dnsyo/   
+
+1. hayaku   
+Fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster.  
+Project Source: https://github.com/hayaku/hayaku   
+Project Homepage: http://hayakubundle.com/   
+  
+  
             
