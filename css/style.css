@@ -6,7 +6,7 @@ body {
 a {
   text-decoration: none;
   font-weight: bold;
-  color: #0000FF;
+  color: #FF0000;
 }
 
 p {
@@ -31,6 +31,12 @@ h1 {
 
 .title p {
   text-align: center;
+}
+
+ul a {
+  text-decoration: underline;
+  font-weight: bold;
+  color: #000000;
 }
 
 .credits {
