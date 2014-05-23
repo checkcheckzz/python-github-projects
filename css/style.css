@@ -58,9 +58,15 @@ h1 {
 
 
 .gh-btns {
- position: relative;  
- top: 50%;
- left: 40%; 
+ position: relative;
+ left: 30%; 
+ 
+}
+
+.container{
+  width: 700px;
+  margin: 0 auto;
+  padding: 30px;
 }
 
 
