@@ -1,0 +1,75 @@
+body {
+  background:#F8F8F8 url('../img/bg-noise.png') top left;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #999;
+}
+
+p {
+  font-size: 12px;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+  line-height: 1.5em;
+}
+
+h1 {
+  font-family: 'MuseoSlab500Regular', sans-serif;
+  text-align: center;
+  color: #999;
+  font-size: 42px;
+  margin: 30px 0 0 0;
+}
+
+.title {
+  width: 700px;
+  margin: 0 auto;
+  padding-right: 35px;
+}
+
+.title p {
+  text-align: center;
+}
+
+.credits {
+  margin: 0 auto;
+  width: 700px;
+  text-align: center;
+  clear: both;
+}
+
+#github-logo {
+  position: fixed;
+  bottom: -5px;
+  right: 20px;
+  z-index: 1;
+  display: block;
+  opacity: 0.4;
+}
+
+.github-ribbon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+}
+
+.projects{
+  width: 700px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+/* Font-face */
+
+@font-face {
+  font-family: 'MuseoSlab500Regular';
+  src: url('../font/Museo_Slab_500-webfont.eot');
+  src: url('../font/Museo_Slab_500-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../font/Museo_Slab_500-webfont.woff') format('woff'),
+       url('../font/Museo_Slab_500-webfont.ttf') format('truetype'),
+       url('../font/Museo_Slab_500-webfont.svg#MuseoSlab500Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
