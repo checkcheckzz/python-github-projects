@@ -1,3 +1,9 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
 body {
   background:#E0FFFF url('../img/bg-noise.png') top left;
 }
@@ -57,7 +63,7 @@ h1 {
 
 .gh-btns {
    
-  position: fixed;
+  margin-bottom: 0;
   
 }
 
