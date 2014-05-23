@@ -61,20 +61,13 @@ h1 {
   border: 0;
 }
 
-.container {
-    /* absolute center .splash within .splash-container */
-    width: 350px;
-    height: 50%;
-    margin: auto;
-    position: absolute;
-    top: 70px; left: 0; bottom: 0; right: 0;
-    text-align: center;
-}
 
 .gh-btns {
    
-  margin-bottom: 0;
-  
+ top: 50%;
+ left: 50%; 
+ margin: -4em auto auto -6em;
+
 }
 
 
