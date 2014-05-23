@@ -1,15 +1,15 @@
 body {
-  background:#F8F8F8 url('../img/bg-noise.png') top left;
+  background:#E0FFFF url('../img/bg-noise.png') top left;
 }
 
 a {
   text-decoration: none;
   font-weight: bold;
-  color: #999;
+  color: #0000FF;
 }
 
 p {
-  font-size: 12px;
+  font-size: 13px;
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
   line-height: 1.5em;
 }
@@ -55,11 +55,7 @@ h1 {
   border: 0;
 }
 
-.projects{
-  width: 700px;
-  margin: 0 auto;
-  padding: 30px;
-}
+
 
 /* Font-face */
 
