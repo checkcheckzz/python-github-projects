@@ -63,10 +63,9 @@ h1 {
 
 
 .gh-btns {
-   
+ position: relative;  
  top: 50%;
  left: 50%; 
-
 }
 
 
