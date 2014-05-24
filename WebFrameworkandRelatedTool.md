@@ -108,8 +108,33 @@ Project Documentation: http://django-guardian.readthedocs.org/en/v1.2/
 1. django-braces  
 Mixins for Django's class-based views.  
 Project Source: https://github.com/brack3t/django-braces   
-Project Documentation: http://django-braces.readthedocs.org/en/latest/index.html  
-     
+Project Documentation: http://django-braces.readthedocs.org/en/latest/index.html 
+
+1. django-activity-stream   
+Generate generic activity streams from the actions on your site.   
+Project Source: https://github.com/justquick/django-activity-stream   
+Project Documentation: https://django-activity-stream.readthedocs.org/en/latest/   
+
+1. django-socialregistration   
+Combining OpenID, OAuth and FacebookConnect signup in one application.  
+Project Source: https://github.com/flashingpumpkin/django-socialregistration   
+Project Documentation: http://django-socialregistration.readthedocs.org/en/latest/   
+
+1. django-imagekit   
+Automated image processing for Django.   
+Project source: https://github.com/matthewwithanm/django-imagekit   
+Project Documentation: http://django-imagekit.readthedocs.org/en/latest/  
+
+1. django-pipeline   
+Pipeline is an asset packaging library for Django.    
+Project Source: https://github.com/cyberdelia/django-pipeline  
+Project Documentation: http://django-pipeline.readthedocs.org/en/latest/  
+
+1. Django-Socialauth   
+Allows logging in via Facebook, Yahoo, Gmail, Twitter and Openid.   
+Project Source: https://github.com/agiliq/Django-Socialauth   
+
+      
 1. flask  
 Flask is a microframework for Python based on Werkzeug and Jinja2.  
 Project Source: https://github.com/mitsuhiko/flask  
@@ -128,7 +153,15 @@ Project Documentation: https://flask-admin.readthedocs.org/en/latest/
 1. flask-appengine-template   
 Boilerplate project template for running Flask on Google App Engine.  
 Project Source: https://github.com/kamalgill/flask-appengine-template  
-   
+
+1. flask-sockets   
+Elegant WebSockets for your Flask apps.   
+Project Source: https://github.com/kennethreitz/flask-sockets   
+
+1. flask-sqlalchemy   
+Adds SQLAlchemy support to Flask.  
+Project Source: https://github.com/mitsuhiko/flask-sqlalchemy  
+
 1. eve  
 Eve is an out-of-the-box, highly customizable and fully featured RESTful Web API framework that you can use to effortlessly build and deploy your own APIs.  
 Project Source: https://github.com/nicolaiarocci/eve  

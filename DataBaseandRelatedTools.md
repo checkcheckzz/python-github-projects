@@ -45,5 +45,11 @@ Project Homepage: http://mongoengine.org/
 
 1. redis-faina   
 A query analyzer that parses Redis' MONITOR command for counter/timing stats about query patterns.  
-Project Source: https://github.com/Instagram/redis-faina       
+Project Source: https://github.com/Instagram/redis-faina     
+
+1. PyMySQL  
+Pure-Python MySQL Client.   
+Project Source: https://github.com/PyMySQL/PyMySQL  
+
+ 
   

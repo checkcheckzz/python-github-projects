@@ -33,7 +33,7 @@ send me a pull request and follow the [contribution guide](https://github.com/ch
 * [Image](https://github.com/checkcheckzz/Python-open-projects/blob/master/Image.md)
 * [Job Scheduler](https://github.com/checkcheckzz/Python-open-projects/blob/master/JobScheduler.md)
 * [Mail](https://github.com/checkcheckzz/Python-open-projects/blob/master/Mail.md)
-* [Network](https://github.com/checkcheckzz/Python-open-projects/blob/master/Network.md)
+* [Network and Related Tools](https://github.com/checkcheckzz/Python-open-projects/blob/master/Network.md)
 * [Other](https://github.com/checkcheckzz/Python-open-projects/blob/master/Other.md)  
 * [Package Manager](https://github.com/checkcheckzz/Python-open-projects/blob/master/PackageManager.md)
 * [Science](https://github.com/checkcheckzz/Python-open-projects/blob/master/Science.md) 

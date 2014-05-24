@@ -1,6 +1,7 @@
 ##Concurrency
 
-1. gevent  
-gevent is a coroutine-based Python networking library.  
-Project Source: https://github.com/surfly/gevent  
-Project Homepage:  http://www.gevent.org/
+
+1. pulsar   
+Event driven concurrent framework for python.   
+Project Source: https://github.com/quantmind/pulsar   
+Project Documentation: http://quantmind.github.io/pulsar/   

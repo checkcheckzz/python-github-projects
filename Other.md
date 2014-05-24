@@ -36,5 +36,20 @@ Project Source: https://github.com/halgari/clojure-py
 Optimizing GPU-meta-programming code generating array oriented optimizing math compiler in Python.  
 Project Source: https://github.com/Theano/Theano   
 Project Homepage: http://www.deeplearning.net/software/theano/   
+
+1. hy  
+Hy is a wonderful dialect of Lisp that¡¯s embedded in Python.   
+Project Source: https://github.com/hylang/hy   
+Project Documentation: http://docs.hylang.org/en/latest/   
+
+1. webgl-lessons  
+Some lessons in WebGL.    
+Project Source: https://github.com/gpjt/webgl-lessons   
+
+1. zsh-completions  
+Additional completion definitions for Zsh.   
+Project Source: https://github.com/zsh-users/zsh-completions   
+ 
+
  
   

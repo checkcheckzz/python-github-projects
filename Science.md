@@ -74,3 +74,9 @@ Online Demo Address: http://jiebademo.ap01.aws.af.cm/
 Statsmodels is a Python package that provides a complement to scipy for statistical computations including descriptive statistics and estimation and inference for statistical models.   
 Project Source: https://github.com/statsmodels/statsmodels  
 Project Documentation: http://statsmodels.sourceforge.net/devel/  
+
+1. pycrypto   
+The Python Cryptography Toolkit.   
+Project Source:  https://github.com/dlitz/pycrypto   
+Project Homepage: https://www.dlitz.net/software/pycrypto/   
+ 

@@ -23,5 +23,10 @@ Project Source: https://github.com/dbader/schedule
 Pure Python RabbitMQ/AMQP 0-9-1 client library   
 Project Source: https://github.com/pika/pika   
 Project Documentation: http://pika.readthedocs.org/en/0.9.13/  
+
+1. pyres  
+Resque is a great implementation of a job queue by the people at github.   
+Project Source: https://github.com/binarydud/pyres   
+
   
      

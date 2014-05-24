@@ -82,5 +82,26 @@ Project Documentation: http://jedi.jedidjah.ch/en/latest/
 
 1. JsFormat  
 JsFormat is a javascript formatting plugin for Sublime Text 2.  
-Project Source: https://github.com/jdc0589/JsFormat    
+Project Source: https://github.com/jdc0589/JsFormat 
+
+1. hayaku   
+Fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster.  
+Project Source: https://github.com/hayaku/hayaku   
+Project Homepage: http://hayakubundle.com/   
+
+1. sublime-text-2-ruby-tests  
+Sublime Text 2 plugin for running ruby tests.   
+Project Source: https://github.com/maltize/sublime-text-2-ruby-tests 
+
+1. SublimeText-Nodejs   
+nodejs snippets and bindings for Sublime Text 2.   
+Project Source: https://github.com/tanepiper/SublimeText-Nodejs   
+
+1. LaTeXTools   
+LaTeX plugin for Sublime Text 2 and 3.   
+Project Source: https://github.com/SublimeText/LaTeXTools   
+Project Homepage: http://tekonomist.wordpress.com/  
+   
+
+   
 

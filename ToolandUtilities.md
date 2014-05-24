@@ -224,15 +224,22 @@ Tool for finding out which CSS selectors you're NOT using.
 Project Source: https://github.com/peterbe/mincss   
 Project Homepage: http://peterbe.github.io/mincss/  
 
-1. dnsyo  
-Check your DNS against over 1500 global DNS servers.  
-Project Source: https://github.com/samarudge/dnsyo  
-Project Homepage: http://samarudge.github.io/dnsyo/   
+1. oauthlib   
+A generic, spec-compliant, thorough implementation of the OAuth request-signing logic.  
+Project Source: https://github.com/idan/oauthlib   
+Project Documentation: https://oauthlib.readthedocs.org/en/latest/index.html  
 
-1. hayaku   
-Fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster.  
-Project Source: https://github.com/hayaku/hayaku   
-Project Homepage: http://hayakubundle.com/   
-  
+1. WebPutty  
+WebPutty is a simple CSS editing and hosting service that you can run on Google App Engine.   
+Project Source: https://github.com/FogCreek/WebPutty  
+
+1. geeknote   
+Console client for Evernote.   
+Project Source: https://github.com/VitaliyRodnenko/geeknote   
+   
+   
+
+ 
+
   
             

@@ -22,3 +22,9 @@ Project Homepage: http://mezzanine.jupo.org/
 1. v2ex  
 Project Babel 2 is an open source software package for creating and supporting communities.  
 Project Source: https://github.com/livid/v2ex  
+
+1. ckan  
+CKAN is an open-source DMS (data management system) for powering data hubs and data portals.  
+Project Source: https://github.com/ckan/ckan   
+Project Homepage: http://ckan.org/  
+ 

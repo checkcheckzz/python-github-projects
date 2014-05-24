@@ -24,7 +24,9 @@ Locust is an easy-to-use, distributed, user load testing tool.
 Project Source: https://github.com/locustio/locust  
 Project Homepage: http://locust.io/  
 
-1. sublime-text-2-ruby-tests  
-Sublime Text 2 plugin for running ruby tests.   
-Project Source: https://github.com/maltize/sublime-text-2-ruby-tests  
+1. nose   
+nose is nicer testing for python.   
+Project Source: https://github.com/nose-devs/nose   
+Project Documentation: https://nose.readthedocs.org/en/latest/   
+ 
      

@@ -13,4 +13,10 @@ Project Source: https://github.com/mhagger/git-imerge
 Pure-Python Git implementation.  
 Project Source: https://github.com/jelmer/dulwich   
 Project Homepage: http://www.samba.org/~jelmer/dulwich/   
+
+1. octogit   
+A free and open source interface to github from the command line.   
+Project Source: https://github.com/myusuf3/octogit    
+Project Homepage: http://myusuf3.github.io/octogit/  
+
    

@@ -14,6 +14,10 @@ Project Homepage: http://mike.verdone.ca/twitter/
 Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.  
 Project Source: https://github.com/ryanmcgrath/twython  
 Project Documentation: https://github.com/ryanmcgrath/twython  
+
+1. python-twitter   
+Project Source: https://github.com/bear/python-twitter    
+Project Documentation: https://dev.twitter.com/docs
  
 1. facebook-sdk  
 A set of essential tools for working with Facebook in Python.  
@@ -29,3 +33,10 @@ Project Homepage: http://www.mellowmorning.com/
 A Pythonic wrapper for the Wikipedia API.  
 Project Source: https://github.com/goldsmith/Wikipedia  
 Project Homepage: https://wikipedia.readthedocs.org/en/latest/ 
+
+1. python-instagram   
+Python Client for Instagram API.   
+Project Source: https://github.com/Instagram/python-instagram   
+ 
+
+

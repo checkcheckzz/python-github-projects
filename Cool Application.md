@@ -61,3 +61,14 @@ Project Homepage: https://www.gittip.com/
 1. drawille  
 Drawing in terminal with unicode braille characters.   
 Project Source: https://github.com/asciimoo/drawille  
+
+1. Feedly  
+Feedly is a Python library, which allows you to build newsfeed and notification systems using Cassandra and/or Redis.   
+project Source: https://github.com/tschellenbach/Feedly     
+Project Documentation: https://feedly.readthedocs.org/en/latest/   
+
+1. ninja-ide   
+Ninja-IDE is a cross-platform integrated development environment (IDE) that runs on Linux/X11, Mac OS X and Windows desktop operating systems.    
+Project Source: https://github.com/ninja-ide/ninja-ide   
+Project Homepage: http://ninja-ide.org/   
+
