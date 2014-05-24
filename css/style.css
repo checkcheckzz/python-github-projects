@@ -23,27 +23,61 @@ h1 {
   margin: 30px 0 0 0;
 }
 
-.title {
-  width: 700px;
-  margin: 0 auto;
-  padding-right: 35px;
-}
-
 .title p {
   text-align: center;
 }
 
-ul a {
-  text-decoration: underline;
-  font-weight: bold;
-  color: #000000;
+.title a {
+	text-decoration: none;
+	color: #FF6600;
+	
 }
 
-.credits {
+.title a:hover {
+	color: #FF0000;
+}
+
+.author {
   margin: 0 auto;
   width: 700px;
   text-align: center;
   clear: both;
+}
+
+.author a {
+	text-decoration: none;
+	color: #FF6600;
+	
+}
+
+.author a:hover {
+	color: #FF0000;
+}
+
+
+.author .heart {
+  display: inline-block;
+  position: relative;
+  top: .2em;
+  font-size: 1.4em;
+  color: #FF0066;
+  -webkit-transform: scale(.7);
+  -moz-transform: scale(.7);
+  transform: scale(.7);
+  -webkit-animation: heart .4s infinite linear alternate-reverse;
+  -moz-animation: heart .4 infinite linear alternate-reverse;
+  animation: heart .4s infinite linear alternate-reverse;
+}
+@-webkit-keyframes heart {
+  to { -webkit-transform: scale(1.0); }
+}
+
+@-moz-keyframes heart {
+  to { -moz-transform: scale(1.0); }
+}
+
+@keyframes heart {
+  to { transform: scale(1.0); }
 }
 
 #github-logo {
