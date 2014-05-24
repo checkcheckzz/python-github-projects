@@ -75,4 +75,16 @@ ul a {
   padding: 30px;
 }
 
+/* list
+   ========================================================================== */
+   
+.list { width:700px; font-family:Georgia, Times, serif; font-size:15px; }
+.list ul { list-style: none; }
+.list ul li { }
+.list ul li a { display:block; text-decoration:none; color:#000000; background-color:#FFFFFF; line-height:30px;
+  border-bottom-style:solid; border-bottom-width:1px; border-bottom-color:#CCCCCC; padding-left: 10px; cursor:pointer; }
+.list ul li a:hover { color:#FFFFFF; background-image:url(../img/hover.png); background-repeat:repeat-x; }
+.list ul li a strong { margin-right:10px; } 
+  
+
 
