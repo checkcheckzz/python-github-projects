@@ -7,7 +7,13 @@ Project Homepage: https://www.django-cms.org/en/
 
 1. django-blog-zinnia  
 Simple yet powerful and really extendable application for managing a blog within your Django Web site.  
-Project Source: https://github.com/Fantomas42/django-blog-zinnia   
+Project Source: https://github.com/Fantomas42/django-blog-zinnia 
+
+1. feincms   
+A Django-based CMS with a focus on extensibility and concise code.   
+Project Source: https://github.com/feincms/feincms    
+Project Homepage: http://www.feincms.org/  
+  
 
 1. wagtail  
 A new Django content management system  

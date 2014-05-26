@@ -237,6 +237,25 @@ Project Source: https://github.com/FogCreek/WebPutty
 Console client for Evernote.   
 Project Source: https://github.com/VitaliyRodnenko/geeknote   
    
+1. plumbum   
+Plumbum is a small yet feature-rich library for shell script-like programs in Python.   
+Project Source: https://github.com/tomerfiliba/plumbum   
+Project Homepage: http://plumbum.readthedocs.org/en/latest/   
+
+1. webassets   
+Asset management for Python web development.   
+Project Source: https://github.com/miracle2k/webassets   
+Project Documentation: http://webassets.readthedocs.org/en/latest/script.html  
+
+1. flanker   
+Python email address and Mime parsing library.    
+Project Source: https://github.com/mailgun/flanker   
+Project Documentation: https://github.com/mailgun/flanker/blob/master/docs/User%20Manual.md 
+
+1. itsdangerous   
+Various helpers to pass trusted data to untrusted environments.   
+Project Source: https://github.com/mitsuhiko/itsdangerous  
+Project Homepage: https://pythonhosted.org/itsdangerous/   
    
 
  

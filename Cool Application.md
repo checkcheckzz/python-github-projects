@@ -70,5 +70,20 @@ Project Documentation: https://feedly.readthedocs.org/en/latest/
 1. ninja-ide   
 Ninja-IDE is a cross-platform integrated development environment (IDE) that runs on Linux/X11, Mac OS X and Windows desktop operating systems.    
 Project Source: https://github.com/ninja-ide/ninja-ide   
-Project Homepage: http://ninja-ide.org/   
+Project Homepage: http://ninja-ide.org/  
+
+1. pydown   
+An HTML5 presentation builder written by python.   
+Project Source: https://github.com/isnowfy/pydown   
+Online Demo Address: https://github.com/isnowfy/pydown  
+
+1. odoo   
+Odoo is a suite of open source Business apps.  
+Project Source: https://github.com/odoo/odoo   
+Project Homepage: https://www.odoo.com/   
+
+ 
+   
+
+ 
 

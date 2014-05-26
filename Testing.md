@@ -27,6 +27,11 @@ Project Homepage: http://locust.io/
 1. nose   
 nose is nicer testing for python.   
 Project Source: https://github.com/nose-devs/nose   
-Project Documentation: https://nose.readthedocs.org/en/latest/   
+Project Documentation: https://nose.readthedocs.org/en/latest/ 
+
+1. splinter  
+python test framework for web applications.   
+Project Source: https://github.com/cobrateam/splinter   
+Project Homepage: http://splinter.cobrateam.info/  
  
      

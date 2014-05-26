@@ -51,5 +51,9 @@ Project Source: https://github.com/Instagram/redis-faina
 Pure-Python MySQL Client.   
 Project Source: https://github.com/PyMySQL/PyMySQL  
 
+1. wal-e   
+WAL-E is a program designed to perform continuous archiving of PostgreSQL WAL files and base backups.   
+Project Source: https://github.com/wal-e/wal-e   
+
  
   

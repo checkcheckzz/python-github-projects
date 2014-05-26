@@ -27,3 +27,9 @@ Project Homepage: https://couchpota.to/
 1. xunlei-lixian  
 xunlei offline download script.  
 Project Source: https://github.com/iambus/xunlei-lixian   
+
+1. moviepy   
+MoviePy is a Python module for script-based movie editing.   
+Project Source: https://github.com/Zulko/moviepy   
+Project Documentation: http://zulko.github.io/moviepy/  
+

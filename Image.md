@@ -14,3 +14,9 @@ Project Homepage: https://github.com/thumbor/thumbor/wiki
 Kartograph is a Python library that generates SVG maps from ESRI shapefiles.    
 Project Source: http://kartograph.org/docs/kartograph.py/  
 Project Documentation: http://kartograph.org/docs/kartograph.py/   
+
+1. mpld3   
+This is an interactive D3js-based viewer which brings matplotlib graphics to the browser.    
+Project Source: https://github.com/jakevdp/mpld3   
+Project Homepage: http://mpld3.github.io/   
+

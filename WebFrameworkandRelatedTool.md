@@ -88,7 +88,13 @@ Project Homepage: https://github.com/django-admin-bootstrapped/django-admin-boot
 1. django-model-utils   
 Django model mixins and utilities.  
 Project Source: https://github.com/carljm/django-model-utils   
-Project Documentation: https://django-model-utils.readthedocs.org/en/latest/   
+Project Documentation: https://django-model-utils.readthedocs.org/en/latest/ 
+
+1. gargoyle   
+Gargoyle is a platform built on top of Django which allows you to switch functionality of your application on and off based on conditions.  
+Project Source: https://github.com/disqus/gargoyle  
+Project Documentation: http://gargoyle.readthedocs.org/en/latest/   
+  
 
 1. Thumbnails for Django  
 Thumbnails for Django.  
@@ -132,9 +138,16 @@ Project Documentation: http://django-pipeline.readthedocs.org/en/latest/
 
 1. Django-Socialauth   
 Allows logging in via Facebook, Yahoo, Gmail, Twitter and Openid.   
-Project Source: https://github.com/agiliq/Django-Socialauth   
+Project Source: https://github.com/agiliq/Django-Socialauth 
 
-      
+1. django-jenkins   
+Plug and play continuous integration with django and jenkins.  
+Project Source: https://github.com/kmmbvnr/django-jenkins   
+
+1. django-paypal   
+A pluggable Django application for integrating PayPal Payments Standard or Payments Pro.   
+Project Source: https://github.com/johnboxall/django-paypal   
+        
 1. flask  
 Flask is a microframework for Python based on Werkzeug and Jinja2.  
 Project Source: https://github.com/mitsuhiko/flask  

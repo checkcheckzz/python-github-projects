@@ -102,6 +102,10 @@ LaTeX plugin for Sublime Text 2 and 3.
 Project Source: https://github.com/SublimeText/LaTeXTools   
 Project Homepage: http://tekonomist.wordpress.com/  
    
+1. Vintageous  
+Vintageous is a vi/Vim editing package for Sublime Text 3.   
+Project Source: https://github.com/guillermooo/Vintageous  
+Project Homepage: http://guillermooo.bitbucket.org/Vintageous/  
 
    
 

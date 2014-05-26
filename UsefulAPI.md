@@ -24,6 +24,12 @@ A set of essential tools for working with Facebook in Python.
 Project Source: https://github.com/pythonforfacebook/facebook-sdk  
 Project Homepage: http://www.pythonforfacebook.com/  
 
+1. pyfacebook  
+PyFacebook is a Python client library for the Facebook API.  
+Project Source: https://github.com/sciyoshi/pyfacebook  
+
+
+
 1. Django-facebook  
 Facebook open graph api implementation using the Django web framework in python.  
 Project Source: https://github.com/tschellenbach/Django-facebook  
