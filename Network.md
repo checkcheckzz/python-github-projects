@@ -74,6 +74,11 @@ Project Homepage: http://samarudge.github.io/dnsyo/
 1. urllib3   
 Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and more.   
 Project Source: https://github.com/shazow/urllib3   
-Project Documentation: http://urllib3.readthedocs.org/en/latest/  
+Project Documentation: http://urllib3.readthedocs.org/en/latest/ 
+
+1. HTTPretty  
+HTTP client mocking tool for Python, it's like ruby's FakeWeb for python.  
+Project Source: https://github.com/gabrielfalcao/HTTPretty   
+Project Homepage: http://falcao.it/HTTPretty/   
 
 
