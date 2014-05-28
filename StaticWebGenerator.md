@@ -15,5 +15,7 @@ A Python Static Website Generator.
 Project Source: https://github.com/hyde/hyde.  
 Project Homepage: http://hyde.github.io/ 
 
-
-
+1. nikola   
+A static website and blog generator.   
+Project Source: https://github.com/getnikola/nikola   
+Project Homepage: http://getnikola.com/  

@@ -200,5 +200,24 @@ Project Documentation: https://github.com/mailgun/flanker/blob/master/docs/User%
 1. itsdangerous   
 Various helpers to pass trusted data to untrusted environments.   
 Project Source: https://github.com/mitsuhiko/itsdangerous  
-Project Homepage: https://pythonhosted.org/itsdangerous/   
-              
+Project Homepage: https://pythonhosted.org/itsdangerous/ 
+
+1. Printrun  
+Pure Python 3d printing host software  
+Project Source: https://github.com/kliment/Printrun  
+
+1. pdfminer   
+PDFMiner is a tool for extracting information from PDF documents.   
+Project Source: https://github.com/euske/pdfminer   
+Project Homepage: https://euske.github.io/pdfminer/   
+
+1. qtile   
+A small, flexible, scriptable tiling window manager.   
+Project Source: https://github.com/qtile/qtile    
+Project Homepage: http://qtile.org/  
+    
+1. doge   
+doge is a simple motd script based on the slightly stupid but very funny doge meme. It prints random grammatically incorrect statements that are sometimes based on things from your computer.  
+Proejct Source: https://github.com/thiderman/doge   
+Project Documentation: https://pypi.python.org/pypi/doge/  
+             

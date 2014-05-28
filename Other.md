@@ -48,8 +48,10 @@ Project Source: https://github.com/gpjt/webgl-lessons
 
 1. zsh-completions  
 Additional completion definitions for Zsh.   
-Project Source: https://github.com/zsh-users/zsh-completions   
- 
+Project Source: https://github.com/zsh-users/zsh-completions
 
- 
+1. BicaVM  
+Javascript implementation of JVM.   
+Project Source: https://github.com/nurv/BicaVM  
+Project Homepage: http://www.surf-the-edge.com/
   

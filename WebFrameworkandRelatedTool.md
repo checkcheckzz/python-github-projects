@@ -90,6 +90,19 @@ Django model mixins and utilities.
 Project Source: https://github.com/carljm/django-model-utils   
 Project Documentation: https://django-model-utils.readthedocs.org/en/latest/ 
 
+1. django-schedule  
+A calendaring/scheduling application.  
+Project Source: https://github.com/thauber/django-schedule   
+
+1. django-deployment-workshop   
+Code and configuration used in my Django Deployment Workshop.   
+Project Source: https://github.com/jacobian/django-deployment-workshop  
+
+1. django-suit  
+Modern theme for Django admin interface.  
+Project Source: https://github.com/darklow/django-suit   
+Project Homepage: http://djangosuit.com/  
+ 
 1. gargoyle   
 Gargoyle is a platform built on top of Django which allows you to switch functionality of your application on and off based on conditions.  
 Project Source: https://github.com/disqus/gargoyle  
@@ -215,4 +228,3 @@ Jinja2 is a template engine written in pure Python. It provides a Django inspire
 expressions and an optional sandboxed environment.  
 Project Source: https://github.com/mitsuhiko/jinja2  
 Project Homepage: http://jinja.pocoo.org/
-

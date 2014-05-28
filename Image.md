@@ -20,3 +20,8 @@ This is an interactive D3js-based viewer which brings matplotlib graphics to the
 Project Source: https://github.com/jakevdp/mpld3   
 Project Homepage: http://mpld3.github.io/   
 
+1. apitrace   
+Tools for tracing OpenGL, Direct3D, and other graphics APIs.   
+Project Source: https://github.com/apitrace/apitrace   
+Project Homepage: http://apitrace.github.io/   
+  

@@ -28,8 +28,6 @@ Project Homepage: http://www.pythonforfacebook.com/
 PyFacebook is a Python client library for the Facebook API.  
 Project Source: https://github.com/sciyoshi/pyfacebook  
 
-
-
 1. Django-facebook  
 Facebook open graph api implementation using the Django web framework in python.  
 Project Source: https://github.com/tschellenbach/Django-facebook  
@@ -42,7 +40,10 @@ Project Homepage: https://wikipedia.readthedocs.org/en/latest/
 
 1. python-instagram   
 Python Client for Instagram API.   
-Project Source: https://github.com/Instagram/python-instagram   
- 
+Project Source: https://github.com/Instagram/python-instagram 
 
-
+1. praw   
+A python package that allows for simple access to reddit's API.  
+Project Source: https://github.com/praw-dev/praw   
+Project Documentation: https://praw.readthedocs.org/en/v2.1.16/  
+   

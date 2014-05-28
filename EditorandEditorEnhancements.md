@@ -107,5 +107,7 @@ Vintageous is a vi/Vim editing package for Sublime Text 3.
 Project Source: https://github.com/guillermooo/Vintageous  
 Project Homepage: http://guillermooo.bitbucket.org/Vintageous/  
 
+1. Stino  
+Stino is a Sublime Text plugin, which provides an Arduino-like environement for editing, compiling and uploading sketches.   
+Project Source: https://github.com/Robot-Will/Stino   
    
-

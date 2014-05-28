@@ -34,4 +34,8 @@ python test framework for web applications.
 Project Source: https://github.com/cobrateam/splinter   
 Project Homepage: http://splinter.cobrateam.info/  
  
+1. sixpack  
+Sixpack is a language-agnostic a/b-testing framework.   
+Project Source: https://github.com/seatgeek/sixpack   
+Project Homepage: http://sixpack.seatgeek.com/  
      

@@ -82,8 +82,11 @@ Odoo is a suite of open source Business apps.
 Project Source: https://github.com/odoo/odoo   
 Project Homepage: https://www.odoo.com/   
 
- 
-   
+1. calibre  
+calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats.   
+Project Source: https://github.com/kovidgoyal/calibre
 
- 
-
+1. anki   
+Anki for desktop computers.   
+Project Source: https://github.com/dae/anki   
+Project Homepage: http://ankisrs.net/   

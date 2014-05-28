@@ -26,7 +26,10 @@ Project Documentation: http://pika.readthedocs.org/en/0.9.13/
 
 1. pyres  
 Resque is a great implementation of a job queue by the people at github.   
-Project Source: https://github.com/binarydud/pyres   
+Project Source: https://github.com/binarydud/pyres  
 
-  
-     
+1. kombu   
+Kombu is a messaging library for Python.  
+Project Source: https://github.com/celery/kombu   
+Project Documentation: http://kombu.readthedocs.org/en/latest/  
+       
