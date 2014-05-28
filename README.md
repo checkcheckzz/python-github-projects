@@ -1,4 +1,6 @@
-##Python Repositories Collection and Classification
+[![logo](imgs/pythona.jpg)](https://github.com/checkcheckzz/Python-open-projects)
+
+> Collect and classify Python open projects on Github
 
 If you want to build a cool Python project from scratch, a good start point is to find a related project.  
 

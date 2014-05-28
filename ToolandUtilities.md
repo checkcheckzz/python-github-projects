@@ -31,11 +31,6 @@ Manage your SSH like a boss.
 Project Source: https://github.com/emre/storm  
 Project Documentation: http://stormssh.readthedocs.org/en/master/
 
-1. jinja2  
-Jinja2 is a template engine written in pure Python. It provides a Django inspired non-XML syntax but supports inline 
-expressions and an optional sandboxed environment.  
-Project Source: https://github.com/mitsuhiko/jinja2  
-Project Homepage: http://jinja.pocoo.org/
 
 1. q  
 q allows direct SQL-like queries on CSVs/TSVs (and any other tabular text files), including joins and any other SQL construct, 
