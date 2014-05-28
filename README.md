@@ -9,7 +9,7 @@ on the project's main purpose. If a project is a client for certain database, I 
 
 As you know, a project may belong to several categories. If you think that a project is listed under a wrong category
 or a new category should be added, please open an issue. If you want to add a new project to certain categories, just
-send me a pull request and follow the [contribution guide](https://github.com/checkcheckzz/Python-open-projects/wiki/Contribution).
+send me a pull request and follow the [contribution guide](https://github.com/checkcheckzz/Python-open-projects/wiki).
 
 
 ### <a name='toc'>Table of Contents</a>
