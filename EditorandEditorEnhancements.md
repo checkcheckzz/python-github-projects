@@ -110,4 +110,14 @@ Project Homepage: http://guillermooo.bitbucket.org/Vintageous/
 1. Stino  
 Stino is a Sublime Text plugin, which provides an Arduino-like environement for editing, compiling and uploading sketches.   
 Project Source: https://github.com/Robot-Will/Stino   
+
+1. editorconfig-sublime   
+Helps developers maintain consistent coding styles between different editors.   
+project Source: https://github.com/sindresorhus/editorconfig-sublime  
+
+1. mcedit  
+MCEdit is an open-source, BSD-licenced world editor for the viral indie hit Minecraft.  
+Project Source: https://github.com/mcedit/mcedit  
+Project Homepage: http://www.mcedit.net/  
+ 
    

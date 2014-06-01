@@ -53,7 +53,8 @@ Project Source: https://github.com/PyMySQL/PyMySQL
 
 1. wal-e   
 WAL-E is a program designed to perform continuous archiving of PostgreSQL WAL files and base backups.   
-Project Source: https://github.com/wal-e/wal-e   
+Project Source: https://github.com/wal-e/wal-e 
 
- 
-  
+1.  twissandra  
+Twissandra is an example project, created to learn and demonstrate how to use Cassandra.   
+Project Source: https://github.com/twissandra/twissandra  

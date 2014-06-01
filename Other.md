@@ -12,10 +12,6 @@ Project Homepage: http://numba.pydata.org/
 1. fn.py  
 Functional programming in Python.  
 Project Source: https://github.com/kachayev/fn.py   
-
-1. anim_encoder  
-anim_encoder creates small JavaScript+HTML animations from a series on PNG images.   
-Project Source: https://github.com/sublimehq/anim_encoder  
    
 1. Topaz  
 Topaz is an implementation of the Ruby programming language, written in Python, using the RPython VM toolchain.   
@@ -38,7 +34,7 @@ Project Source: https://github.com/Theano/Theano
 Project Homepage: http://www.deeplearning.net/software/theano/   
 
 1. hy  
-Hy is a wonderful dialect of Lisp that¡¯s embedded in Python.   
+Hy is a wonderful dialect of Lisp that's embedded in Python.   
 Project Source: https://github.com/hylang/hy   
 Project Documentation: http://docs.hylang.org/en/latest/   
 
@@ -54,4 +50,9 @@ Project Source: https://github.com/zsh-users/zsh-completions
 Javascript implementation of JVM.   
 Project Source: https://github.com/nurv/BicaVM  
 Project Homepage: http://www.surf-the-edge.com/
+
+1. bitey  
+Import LLVM bitcode directly into Python and use it as an extension module.  
+Project Source: https://github.com/dabeaz/bitey  
+
   

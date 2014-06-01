@@ -101,14 +101,27 @@ Project Source: https://github.com/jacobian/django-deployment-workshop
 1. django-suit  
 Modern theme for Django admin interface.  
 Project Source: https://github.com/darklow/django-suit   
-Project Homepage: http://djangosuit.com/  
- 
+Project Homepage: http://djangosuit.com/ 
+
+1. django-nose  
+Django test runner using nose.  
+Project Source: https://github.com/django-nose/django-nose  
+Project Documentation: https://github.com/django-nose/django-nose  
+
+1. django-c10k-demo  
+django-c10k-demo is an experimental playground for high concurrency in Django with WebSockets.  
+Project Source: https://github.com/aaugustin/django-c10k-demo  
+
+1. django-twoscoops-project  
+A project template for Django 1.6.  
+Project Source: https://github.com/twoscoops/django-twoscoops-project  
+Project Homepage: http://twoscoopspress.org/   
+
 1. gargoyle   
 Gargoyle is a platform built on top of Django which allows you to switch functionality of your application on and off based on conditions.  
 Project Source: https://github.com/disqus/gargoyle  
 Project Documentation: http://gargoyle.readthedocs.org/en/latest/   
   
-
 1. Thumbnails for Django  
 Thumbnails for Django.  
 Project Source: https://github.com/mariocesar/sorl-thumbnail  

@@ -42,3 +42,6 @@ Convert HTML to Markdown-formatted text.
 Project Source: https://github.com/aaronsw/html2text  
 Project Homepage: http://www.aaronsw.com/2002/html2text/  
 
+1. anim_encoder  
+anim_encoder creates small JavaScript+HTML animations from a series on PNG images.   
+Project Source: https://github.com/sublimehq/anim_encoder  

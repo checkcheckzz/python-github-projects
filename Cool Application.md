@@ -90,3 +90,11 @@ Project Source: https://github.com/kovidgoyal/calibre
 Anki for desktop computers.   
 Project Source: https://github.com/dae/anki   
 Project Homepage: http://ankisrs.net/   
+
+1. poclbm  
+PyOpenCL bitcoin miner.  
+Project Source: https://github.com/m0mchil/poclbm  
+
+1. uscode  
+The United States Code.  
+Project Source: https://github.com/divegeek/uscode  

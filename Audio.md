@@ -24,3 +24,8 @@ A RESTful API to your music collection.
 Project Source: https://github.com/tooxie/shiva-server   
 Project Documentation: https://pypi.python.org/pypi/shiva   
 
+1. dejavu   
+Audio fingerprinting and recognition in Python.  
+Project Source: https://github.com/worldveil/dejavu   
+Project Homepage: http://willdrevo.com/fingerprinting-and-audio-recognition-with-python.html  
+   

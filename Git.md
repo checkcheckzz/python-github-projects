@@ -19,4 +19,8 @@ A free and open source interface to github from the command line.
 Project Source: https://github.com/myusuf3/octogit    
 Project Homepage: http://myusuf3.github.io/octogit/  
 
+1. hg-git  
+This is the Hg-Git plugin for Mercurial, adding the ability to push and pull to/from a Git server repository from Hg.  
+Project Source: https://github.com/schacon/hg-git  
+project Homepage: http://hg-git.github.io/  
    

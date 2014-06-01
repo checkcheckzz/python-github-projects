@@ -31,7 +31,6 @@ Manage your SSH like a boss.
 Project Source: https://github.com/emre/storm  
 Project Documentation: http://stormssh.readthedocs.org/en/master/
 
-
 1. q  
 q allows direct SQL-like queries on CSVs/TSVs (and any other tabular text files), including joins and any other SQL construct, 
 and supports automatic detection of column types and names.  
@@ -220,4 +219,33 @@ Project Homepage: http://qtile.org/
 doge is a simple motd script based on the slightly stupid but very funny doge meme. It prints random grammatically incorrect statements that are sometimes based on things from your computer.  
 Proejct Source: https://github.com/thiderman/doge   
 Project Documentation: https://pypi.python.org/pypi/doge/  
-             
+
+1. wssh  
+SSH to WebSockets Bridge.   
+Project Source: https://github.com/aluzzardi/wssh   
+
+1. gspread  
+Google Spreadsheets Python API.  
+Project Source: https://github.com/burnash/gspread  
+Project Documentation: http://burnash.github.com/gspread/  
+ 
+1. Python-Markdown  
+This is a Python implementation of John Gruber's Markdown.   
+Project Source: https://github.com/waylan/Python-Markdown  
+Project Documentation: https://pythonhosted.org/Markdown/  
+
+1. fail2ban  
+Daemon to ban hosts that cause multiple authentication errors.  
+Project Source: https://github.com/fail2ban/fail2ban  
+Project Homepage: https://github.com/fail2ban/fail2ban  
+
+1. sabnzbd  
+SABnzbd is an Open Source Binary Newsreader written in Python.  
+Project Source: https://github.com/sabnzbd/sabnzbd  
+Project Homepage; http://sabnzbd.org/  
+
+1. delorean  
+Delorean is a library for clearing up the inconvenient truths that arise dealing with datetimes in Python.   
+Project Source: https://github.com/myusuf3/delorean   
+Project Documentation: https://github.com/myusuf3/delorean  
+              

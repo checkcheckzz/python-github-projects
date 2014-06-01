@@ -191,3 +191,26 @@ Project Documentation:  https://github.com/lra/mackup/tree/master/doc
 1. pidcat  
 Colored logcat script which only shows log entries for a specific application package.  
 Project Source: https://github.com/JakeWharton/pidcat
+
+1. reviewboard  
+An extensible and friendly code review tool for projects and companies of all sizes.  
+Project Source: https://github.com/reviewboard/reviewboard  
+Project Homepage: http://www.reviewboard.org/   
+
+1. plop  
+Plop is a stack-sampling profiler for Python.  
+Project Source: https://github.com/bdarnell/plop  
+   
+1. carbon   
+Carbon is one of the components of Graphite, and is responsible for receiving metrics over the network and writing them down to disk using a storage backend.  
+Project Source: https://github.com/graphite-project/carbon
+
+1. planout  
+PlanOut is a library and interpreter for designing online experiments.  
+Project Source: https://github.com/facebook/planout  
+Project Homepage: http://facebook.github.io/planout/  
+
+1. cuckoo  
+Cuckoo Sandbox is an automated dynamic malware analysis system.  
+Project Source: https://github.com/cuckoobox/cuckoo  
+project Homepage: http://www.cuckoosandbox.org/  
