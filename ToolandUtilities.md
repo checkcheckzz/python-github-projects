@@ -248,4 +248,12 @@ Project Homepage; http://sabnzbd.org/
 Delorean is a library for clearing up the inconvenient truths that arise dealing with datetimes in Python.   
 Project Source: https://github.com/myusuf3/delorean   
 Project Documentation: https://github.com/myusuf3/delorean  
-              
+          
+1. shovel  
+Shovel is like Rake for python. Turn python functions into tasks simply, and access and invoke them from the command line.   
+Project Source: https://github.com/seomoz/shovel  
+
+1. python-phonenumbers  
+Python port of Google's libphonenumber.  
+Project Source: https://github.com/daviddrysdale/python-phonenumbers  
+		  

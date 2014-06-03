@@ -98,3 +98,12 @@ Project Source: https://github.com/m0mchil/poclbm
 1. uscode  
 The United States Code.  
 Project Source: https://github.com/divegeek/uscode  
+
+1. isso  
+Isso is a lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.   
+Project Source: https://github.com/posativ/isso   
+Project Homepage: http://posativ.org/isso/ 
+
+1. resume  
+PDF/HTML resum¨¦ generator.   
+Project Source: https://github.com/mwhite/resume  

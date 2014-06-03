@@ -24,4 +24,8 @@ Project Homepage: http://mpld3.github.io/
 Tools for tracing OpenGL, Direct3D, and other graphics APIs.   
 Project Source: https://github.com/apitrace/apitrace   
 Project Homepage: http://apitrace.github.io/   
+
+1. colorific   
+Automatic color palette detection.   
+Project Source: https://github.com/99designs/colorific 
   

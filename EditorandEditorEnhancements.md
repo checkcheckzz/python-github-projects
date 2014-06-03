@@ -120,4 +120,7 @@ MCEdit is an open-source, BSD-licenced world editor for the viral indie hit Mine
 Project Source: https://github.com/mcedit/mcedit  
 Project Homepage: http://www.mcedit.net/  
  
+1. SublimeXiki  
+Xiki plugin for Sublime Text 2.   
+Project Source: https://github.com/lunixbochs/SublimeXiki  
    

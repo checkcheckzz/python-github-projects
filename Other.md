@@ -55,4 +55,6 @@ Project Homepage: http://www.surf-the-edge.com/
 Import LLVM bitcode directly into Python and use it as an extension module.  
 Project Source: https://github.com/dabeaz/bitey  
 
+1. Adafruit-Raspberry-Pi-Python-Code  
+Project Source: https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code  
   

@@ -24,3 +24,11 @@ This is the Hg-Git plugin for Mercurial, adding the ability to push and pull to/
 Project Source: https://github.com/schacon/hg-git  
 project Homepage: http://hg-git.github.io/  
    
+1. gittle   
+Gittle is a high-level pure-python git library.   
+Project Source: https://github.com/FriendCode/gittle  
+
+1. GitPython  
+GitPython is a python library used to interact with Git repositories.  
+Project Source: https://github.com/gitpython-developers/GitPython  
+     

@@ -214,3 +214,13 @@ Project Homepage: http://facebook.github.io/planout/
 Cuckoo Sandbox is an automated dynamic malware analysis system.  
 Project Source: https://github.com/cuckoobox/cuckoo  
 project Homepage: http://www.cuckoosandbox.org/  
+
+1. firefly  
+game server distributed framework.   
+Project Source: https://github.com/9miao/firefly   
+Project Homepage: http://firefly.9miao.com/ 
+
+1. simmetrica  
+Lightweight framework for collecting and aggregating event metrics as timeseries data.   
+Project Source: https://github.com/o/simmetrica  
+ 

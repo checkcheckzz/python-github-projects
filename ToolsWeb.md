@@ -45,3 +45,8 @@ Project Homepage: http://www.aaronsw.com/2002/html2text/
 1. anim_encoder  
 anim_encoder creates small JavaScript+HTML animations from a series on PNG images.   
 Project Source: https://github.com/sublimehq/anim_encoder  
+
+1. boom  
+Boom! is a simple command line tool to send some load to a web app.  
+Project Source: https://github.com/tarekziade/boom   
+

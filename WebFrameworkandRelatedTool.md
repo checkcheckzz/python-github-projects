@@ -117,6 +117,11 @@ A project template for Django 1.6.
 Project Source: https://github.com/twoscoops/django-twoscoops-project  
 Project Homepage: http://twoscoopspress.org/   
 
+1. django-floppyforms  
+Full control of form rendering in the templates.   
+Project Source: https://github.com/gregmuellegger/django-floppyforms   
+Project Documentation: http://django-floppyforms.readthedocs.org/en/latest/  
+
 1. gargoyle   
 Gargoyle is a platform built on top of Django which allows you to switch functionality of your application on and off based on conditions.  
 Project Source: https://github.com/disqus/gargoyle  
@@ -192,6 +197,11 @@ Project Documentation: https://flask-admin.readthedocs.org/en/latest/
 1. flask-appengine-template   
 Boilerplate project template for running Flask on Google App Engine.  
 Project Source: https://github.com/kamalgill/flask-appengine-template  
+
+1. flask-login  
+Flask user session management.  
+Project Source: https://github.com/maxcountryman/flask-login  
+Project documentation: http://flask-login.readthedocs.org/en/latest/  
 
 1. flask-sockets   
 Elegant WebSockets for your Flask apps.   

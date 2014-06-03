@@ -49,3 +49,12 @@ Google App Engine Boilerplate gets your project off the ground quickly using the
 Project Source: https://github.com/coto/gae-boilerplate  
 Project Homepage: http://appengine.beecoss.com/  
 
+1. goagent  
+a gae proxy    
+Project Source: https://github.com/goagent/goagent   
+Project Homepage: https://code.google.com/p/goagent/  
+
+1. libcloud  
+Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API.  
+Project Source:  https://github.com/apache/libcloud    
+Project Documentation: http://libcloud.apache.org/   

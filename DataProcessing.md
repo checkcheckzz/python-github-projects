@@ -22,3 +22,12 @@ Project Source: https://github.com/bitly/data_hacks
 1. fuzzywuzzy  
 Fuzzy string matching like a boss.  
 Project Source: https://github.com/seatgeek/fuzzywuzzy  
+
+1. snownlp   
+Python library for processing Chinese text.   
+Project Source: https://github.com/isnowfy/snownlp   
+
+1. jieba   
+Chinese text segmentation.  
+Project Source: https://github.com/fxsjy/jieba  
+Online Demo Address: http://jiebademo.ap01.aws.af.cm/ 

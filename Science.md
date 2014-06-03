@@ -37,8 +37,18 @@ Project Homepage: http://networkx.github.io/
 
 1. pybrain  
 The Python Machine Learning Library.  
-Project Source: https://github.com/pybrain/pybrain  
+Project Source: https://github.com/pybrain/pybrain
 
+1. ramp  
+Rapid Machine Learning Prototyping in Python.   
+Project Source: https://github.com/kvh/ramp  
+Project Documentation: http://ramp.readthedocs.org/en/latest/  
+
+1. DeepLearningTutorials  
+Deep Learning Tutorial notes and code.   
+project Source: https://github.com/lisa-lab/DeepLearningTutorials   
+Project Documentation: http://deeplearning.net/tutorial/
+ 
 1. pylearn2  
 Pylearn2 is a library designed to make machine learning research easy.  
 Project Source:  https://github.com/lisa-lab/pylearn2   
@@ -65,11 +75,6 @@ tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis
 Project Source: https://github.com/sloria/TextBlob  
 Project Homepage: http://textblob.readthedocs.org/en/dev/ 
 
-1. jieba   
-Chinese text segmentation.  
-Project Source: https://github.com/fxsjy/jieba  
-Online Demo Address: http://jiebademo.ap01.aws.af.cm/ 
-
 1. statsmodels  
 Statsmodels is a Python package that provides a complement to scipy for statistical computations including descriptive statistics and estimation and inference for statistical models.   
 Project Source: https://github.com/statsmodels/statsmodels  
@@ -79,4 +84,5 @@ Project Documentation: http://statsmodels.sourceforge.net/devel/
 The Python Cryptography Toolkit.   
 Project Source:  https://github.com/dlitz/pycrypto   
 Project Homepage: https://www.dlitz.net/software/pycrypto/   
+ 
  
