@@ -122,5 +122,10 @@ Project Homepage: http://www.mcedit.net/
  
 1. SublimeXiki  
 Xiki plugin for Sublime Text 2.   
-Project Source: https://github.com/lunixbochs/SublimeXiki  
+Project Source: https://github.com/lunixbochs/SublimeXiki 
+
+1. CTags   
+CTags support for Sublime Text 2/3.   
+Project Source: https://github.com/SublimeText/CTags   
+ 
    

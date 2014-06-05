@@ -223,4 +223,8 @@ Project Homepage: http://firefly.9miao.com/
 1. simmetrica  
 Lightweight framework for collecting and aggregating event metrics as timeseries data.   
 Project Source: https://github.com/o/simmetrica  
+
+1. yandex-tank   
+Load and performance benchmark tool.   
+Project Source: https://github.com/yandex-load/yandex-tank   
  

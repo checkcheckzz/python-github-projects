@@ -256,4 +256,16 @@ Project Source: https://github.com/seomoz/shovel
 1. python-phonenumbers  
 Python port of Google's libphonenumber.  
 Project Source: https://github.com/daviddrysdale/python-phonenumbers  
+
+1. virtualenv-burrito  
+One command to have a working virtualenv + virtualenvwrapper environment.   
+Project Source: https://github.com/brainsik/virtualenv-burrito  
+
+1. maestro  
+Maestro provides the ability to easily launch, orchestrate and manage mulitple Docker containers as single unit.   
+Project Source: https://github.com/toscanini/maestro     
+
+1. python-lust  
+This project implements the basics of creating a proper modern daemon on a Unix system in Python.   
+Project Source: https://github.com/zedshaw/python-lust   
 		  

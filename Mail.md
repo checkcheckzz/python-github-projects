@@ -23,3 +23,8 @@ Project Source: https://github.com/charlierguo/gmail
 Gmvault is a tool for backing up your gmail account and never lose email correspondence.   
 Project Source: https://github.com/gaubert/gmvault  
 Project Website: http://gmvault.org/
+
+1. imbox  
+Python library for reading IMAP mailboxes and converting email content to machine readable data.   
+Proeject Source: https://github.com/martinrusev/imbox. 
+

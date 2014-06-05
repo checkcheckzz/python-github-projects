@@ -107,3 +107,17 @@ Project Homepage: http://posativ.org/isso/
 1. resume  
 PDF/HTML resum¨¦ generator.   
 Project Source: https://github.com/mwhite/resume  
+
+1. python-webkit2png  
+Python script that takes screenshots (browsershots) using webkit.   
+Project Source: https://github.com/adamn/python-webkit2png  
+
+1. creepy  
+A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms.  
+Project Source: https://github.com/ilektrojohn/creepy   
+Project Homepage: http://www.geocreepy.com/  
+
+1. satchless  
+E-commerce for Python.   
+Project Source: https://github.com/mirumee/satchless  
+Project Homepage: http://satchless.com/  

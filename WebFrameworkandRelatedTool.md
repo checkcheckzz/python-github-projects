@@ -120,7 +120,16 @@ Project Homepage: http://twoscoopspress.org/
 1. django-floppyforms  
 Full control of form rendering in the templates.   
 Project Source: https://github.com/gregmuellegger/django-floppyforms   
-Project Documentation: http://django-floppyforms.readthedocs.org/en/latest/  
+Project Documentation: http://django-floppyforms.readthedocs.org/en/latest/ 
+
+1. django-cache-machine   
+Automatic caching and invalidation for Django models through the ORM.   
+Project Source: https://github.com/jbalogh/django-cache-machine   
+
+1. django-skel   
+A modern Django (1.5) project skeleton.  
+Project Source: https://github.com/rdegges/django-skel   
+Project Documentation: http://django-skel.readthedocs.org/en/latest/   
 
 1. gargoyle   
 Gargoyle is a platform built on top of Django which allows you to switch functionality of your application on and off based on conditions.  
@@ -220,6 +229,10 @@ Project Homepage: http://python-eve.org/
 Tornado is a Python web framework and asynchronous networking library. By using non-blocking network I/O, Tornado can scale to tens of thousands of open connections, making it ideal for long polling, WebSockets, and other applications that require a long-lived connection to each user.  
 Project Source: https://github.com/tornadoweb/tornado  
 Project Documentation: http://www.tornadoweb.org/en/stable/  
+
+1. tornadio2    
+Python socket.io server implementation on top of Tornado framework.   
+Project Source: https://github.com/mrjoes/tornadio2  
 
 1. webpy  
 web.py is a web framework for Python that is as simple as it is powerful.  

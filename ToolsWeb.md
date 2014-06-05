@@ -50,3 +50,7 @@ Project Source: https://github.com/sublimehq/anim_encoder
 Boom! is a simple command line tool to send some load to a web app.  
 Project Source: https://github.com/tarekziade/boom   
 
+1. WeasyPrint   
+WeasyPrint converts web documents (HTML with CSS, SVG, бн) to PDF.   
+Project Source: https://github.com/Kozea/WeasyPrint   
+Project Homepage: http://weasyprint.org/  

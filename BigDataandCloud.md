@@ -57,4 +57,10 @@ Project Homepage: https://code.google.com/p/goagent/
 1. libcloud  
 Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API.  
 Project Source:  https://github.com/apache/libcloud    
-Project Documentation: http://libcloud.apache.org/   
+Project Documentation: http://libcloud.apache.org/ 
+
+1. Fabulous  
+Deploy django apps to Amazon EC2 with ONE command.   
+Project Source: https://github.com/gcollazo/Fabulous  
+Project Homepage: http://elweb.co/ 
+  

@@ -58,3 +58,13 @@ Project Source: https://github.com/wal-e/wal-e
 1.  twissandra  
 Twissandra is an example project, created to learn and demonstrate how to use Cassandra.   
 Project Source: https://github.com/twissandra/twissandra  
+
+1. asyncmongo  
+An asynchronous library for accessing mongo with tornado.ioloop.  
+Project Source: https://github.com/bitly/asyncmongo  
+
+1. pycassa  
+Python Thrift driver for Apache Cassandra.   
+Project Source: https://github.com/pycassa/pycassa   
+Project Documentation: http://pycassa.github.io/pycassa/   
+  
