@@ -121,3 +121,10 @@ Project Homepage: http://www.geocreepy.com/
 E-commerce for Python.   
 Project Source: https://github.com/mirumee/satchless  
 Project Homepage: http://satchless.com/  
+
+1. robobrowser   
+RoboBrowser is a simple, Pythonic library for browsing the web without a standalone web browser.    
+Project Source: https://github.com/jmcarp/robobrowser   
+Project Documentation: http://robobrowser.readthedocs.org/   
+
+ 

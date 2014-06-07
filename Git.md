@@ -32,3 +32,6 @@ Project Source: https://github.com/FriendCode/gittle
 GitPython is a python library used to interact with Git repositories.  
 Project Source: https://github.com/gitpython-developers/GitPython  
      
+1. git-sweep   
+A command-line tool that helps you clean up Git branches that have been merged into master.  
+Project Source: https://github.com/arc90/git-sweep	 

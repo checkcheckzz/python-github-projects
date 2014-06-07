@@ -267,5 +267,20 @@ Project Source: https://github.com/toscanini/maestro
 
 1. python-lust  
 This project implements the basics of creating a proper modern daemon on a Unix system in Python.   
-Project Source: https://github.com/zedshaw/python-lust   
+Project Source: https://github.com/zedshaw/python-lust  
+
+1. subliminal  
+Subliminal is a python library to search and download subtitles.   
+Project Source: https://github.com/Diaoul/subliminal    
+Project Documentation: http://subliminal.readthedocs.org/en/latest/  
+
+1. readerisdead   
+A collection of tools to help with the Google Reader shutdown.   
+Project Source: https://github.com/mihaip/readerisdead   
+Project Homepage: http://readerisdead.com/ 
+
+1. pyrasite   
+Inject code into running Python processes.   
+Project Source: https://github.com/lmacken/pyrasite   
+Project Homepage: http://pyrasite.com/   
 		  

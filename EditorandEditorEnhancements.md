@@ -127,5 +127,9 @@ Project Source: https://github.com/lunixbochs/SublimeXiki
 1. CTags   
 CTags support for Sublime Text 2/3.   
 Project Source: https://github.com/SublimeText/CTags   
- 
+
+1. Sublimall   
+Synchronize your SublimeText configuration.     
+Project Source: https://github.com/socketubs/Sublimall    
+Project Homepage: http://sublimall.org/   
    

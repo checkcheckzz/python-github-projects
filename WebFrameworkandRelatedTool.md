@@ -129,8 +129,11 @@ Project Source: https://github.com/jbalogh/django-cache-machine
 1. django-skel   
 A modern Django (1.5) project skeleton.  
 Project Source: https://github.com/rdegges/django-skel   
-Project Documentation: http://django-skel.readthedocs.org/en/latest/   
+Project Documentation: http://django-skel.readthedocs.org/en/latest/  
 
+1. django-base-template  
+A Django 1.6 base template with HTML5Boilerplate and Twitter Bootstrap.   
+Project Source: https://github.com/xenith/django-base-template   
 1. gargoyle   
 Gargoyle is a platform built on top of Django which allows you to switch functionality of your application on and off based on conditions.  
 Project Source: https://github.com/disqus/gargoyle  

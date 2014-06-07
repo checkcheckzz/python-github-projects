@@ -35,5 +35,11 @@ Project Homepage: http://ckan.org/
 
 1. june  
 June is a forum.  
-Project Source: https://github.com/pythoncn/june  
+Project Source: https://github.com/pythoncn/june    
+
+1. Letterpress   
+A minimal, Markdown based blogging system written in Python.    
+Project Source: https://github.com/an0/Letterpress    
+Project Homepage: http://wangling.me/2013/01/letterpress.html   
+ 
  

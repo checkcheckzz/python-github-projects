@@ -227,4 +227,8 @@ Project Source: https://github.com/o/simmetrica
 1. yandex-tank   
 Load and performance benchmark tool.   
 Project Source: https://github.com/yandex-load/yandex-tank   
+
+1. littlechef  
+Cook with Chef without a Chef Server.   
+Project Source: https://github.com/tobami/littlechef    
  
