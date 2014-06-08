@@ -282,5 +282,13 @@ Project Homepage: http://readerisdead.com/
 1. pyrasite   
 Inject code into running Python processes.   
 Project Source: https://github.com/lmacken/pyrasite   
-Project Homepage: http://pyrasite.com/   
-		  
+Project Homepage: http://pyrasite.com/ 
+
+1. DissidentX   
+DissidentX is a censorship resistance tool.   
+Project Source: https://github.com/bramcohen/DissidentX  
+   
+1. manage.py   
+Human friendly CLI builder.   
+Project Source: https://github.com/Birdback/manage.py   
+  		  

@@ -29,4 +29,8 @@ Online Book Address: http://www.packtpub.com/building-machine-learning-systems-w
 Sublime Text 2 setup used in the Ruby on Rails Tutorial.   
 Project Source: https://github.com/mhartl/rails_tutorial_sublime_text   
 Online Book Address: http://www.railstutorial.org/   
+
+1. scientific-python-lectures   
+Lectures on scientific computing with python, as IPython notebooks.    
+Project Source: https://github.com/jrjohansson/scientific-python-lectures   
    

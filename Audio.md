@@ -31,5 +31,10 @@ Project Homepage: http://willdrevo.com/fingerprinting-and-audio-recognition-with
 
 1. youku-lixian  
 Youku download script.   
-Project Source: https://github.com/iambus/youku-lixian   
+Project Source: https://github.com/iambus/youku-lixian
+
+1. cherrymusic     
+CherryMusic is a music streaming server based on CherryPy and jPlayer.     
+Project Source: https://github.com/devsnd/cherrymusic    
+Project Homepage: http://www.fomori.org/cherrymusic/   
    

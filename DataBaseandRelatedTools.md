@@ -67,4 +67,8 @@ Project Source: https://github.com/bitly/asyncmongo
 Python Thrift driver for Apache Cassandra.   
 Project Source: https://github.com/pycassa/pycassa   
 Project Documentation: http://pycassa.github.io/pycassa/   
+
+1. sqlalchemy   
+The Python SQL Toolkit and Object Relational Mapper.    
+Project Source: https://github.com/zzzeek/sqlalchemy   
   

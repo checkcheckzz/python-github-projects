@@ -63,4 +63,11 @@ Project Documentation: http://libcloud.apache.org/
 Deploy django apps to Amazon EC2 with ONE command.   
 Project Source: https://github.com/gcollazo/Fabulous  
 Project Homepage: http://elweb.co/ 
+
+1. pyes    
+pyes is a pythonic way to use ElasticSearch since 2010.    
+Project Source: https://github.com/aparo/pyes    
+Project Documentation: https://pypi.python.org/pypi/pyes/   
+
+
   

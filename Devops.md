@@ -231,4 +231,21 @@ Project Source: https://github.com/yandex-load/yandex-tank
 1. littlechef  
 Cook with Chef without a Chef Server.   
 Project Source: https://github.com/tobami/littlechef    
- 
+
+1. pythonz    
+Python installation manager supporting CPython, Stackless, PyPy and Jython.    
+Project Source: https://github.com/saghul/pythonz   
+
+1. radon    
+Various code metrics for Python code.  
+Project Source: https://github.com/rubik/radon     
+Project Documentation: https://radon.readthedocs.org/en/latest/   
+
+1. ranger   
+A vim-inspired filemanager for the console.    
+Project Source: https://github.com/hut/ranger   
+
+1. salmon   
+A simple monitoring system.    
+Project Source: https://github.com/lincolnloop/salmon   
+       

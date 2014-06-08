@@ -54,3 +54,8 @@ Project Source: https://github.com/tarekziade/boom
 WeasyPrint converts web documents (HTML with CSS, SVG, бн) to PDF.   
 Project Source: https://github.com/Kozea/WeasyPrint   
 Project Homepage: http://weasyprint.org/  
+
+1. centrifuge     
+Simple real-time messaging in web applications.    
+Project Source: https://github.com/FZambia/centrifuge    
+

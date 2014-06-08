@@ -138,7 +138,12 @@ Project Source: https://github.com/xenith/django-base-template
 Gargoyle is a platform built on top of Django which allows you to switch functionality of your application on and off based on conditions.  
 Project Source: https://github.com/disqus/gargoyle  
 Project Documentation: http://gargoyle.readthedocs.org/en/latest/   
-  
+
+1. django-bootstrap3   
+Bootstrap 3 integration with Django.   
+Project Source: https://github.com/dyve/django-bootstrap3    
+Project Documentation: http://django-bootstrap3.readthedocs.org/en/latest/    
+      
 1. Thumbnails for Django  
 Thumbnails for Django.  
 Project Source: https://github.com/mariocesar/sorl-thumbnail  
@@ -237,6 +242,10 @@ Project Documentation: http://www.tornadoweb.org/en/stable/
 Python socket.io server implementation on top of Tornado framework.   
 Project Source: https://github.com/mrjoes/tornadio2  
 
+1. sockjs-tornado   
+SockJS-tornado is a Python server side counterpart of SockJS-client browser library running on top of Tornado framework.    
+Project Source: https://github.com/mrjoes/sockjs-tornado    
+    
 1. webpy  
 web.py is a web framework for Python that is as simple as it is powerful.  
 Project Source: https://github.com/webpy/webpy  

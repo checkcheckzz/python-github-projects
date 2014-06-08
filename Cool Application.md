@@ -127,4 +127,8 @@ RoboBrowser is a simple, Pythonic library for browsing the web without a standal
 Project Source: https://github.com/jmcarp/robobrowser   
 Project Documentation: http://robobrowser.readthedocs.org/   
 
- 
+1. p2pool   
+Peer-to-peer Bitcoin mining pool.    
+Project Source: https://github.com/forrestv/p2pool   
+Project Homepage: http://p2pool.in/    
+  

@@ -28,4 +28,8 @@ Project Homepage: http://apitrace.github.io/
 1. colorific   
 Automatic color palette detection.   
 Project Source: https://github.com/99designs/colorific 
+
+1. starwars-dot-gif   
+Python script to generate gifs from star wars.   
+Project Source: https://github.com/LindseyB/starwars-dot-gif    
   

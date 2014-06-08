@@ -132,4 +132,17 @@ Project Source: https://github.com/SublimeText/CTags
 Synchronize your SublimeText configuration.     
 Project Source: https://github.com/socketubs/Sublimall    
 Project Homepage: http://sublimall.org/   
-   
+
+1. TrailingSpaces   
+A Sublime Text 2 and 3 plugin that allows you to highlight trailing spaces and delete them in a flash.    
+Project Source: https://github.com/SublimeText/TrailingSpaces   
+
+1. SublimeLinter3   
+Interactive code linting framework for Sublime Text 3.   
+Project Source: https://github.com/SublimeLinter/SublimeLinter3    
+Project Documentation: http://www.sublimelinter.com/en/latest/   
+
+1. DashDoc   
+DashDoc provides integration of Dash into Sublime Text.    
+Project Source: https://github.com/farcaller/DashDoc    
+        
