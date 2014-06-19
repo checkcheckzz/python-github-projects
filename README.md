@@ -1,13 +1,13 @@
 [![logo](imgs/pythona.jpg)](https://github.com/checkcheckzz/Python-open-projects)
 
-> Collect and classify Python open projects on Github
+> Collect and classify Python open projects on GitHub
 
 If you want to build a cool Python project from scratch, a good start point is to find a related project.  
 
-This repository lists the hot (by number of stars) projects on g3ithub. New projects are added gradually. The classification is based
+This repository lists the hot (by number of stars) projects on GitHub. New projects are added gradually. The classification is based
 on the project's main purpose. If a project is a client for a database, it is listed under the database category.
 
-A project may belong to several categories. If you think that a project is listed under a incorrect category
+A project may belong to several categories. If you think that a project is listed under an incorrect category
 or a new category should be added, please open an issue. If you want to add a new project to certain category, just
 send me a pull request and follow the [contribution guide](https://github.com/checkcheckzz/Python-open-projects/wiki).
 
