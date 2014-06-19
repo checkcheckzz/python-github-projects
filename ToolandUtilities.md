@@ -290,5 +290,12 @@ Project Source: https://github.com/bramcohen/DissidentX
    
 1. manage.py   
 Human friendly CLI builder.   
-Project Source: https://github.com/Birdback/manage.py   
+Project Source: https://github.com/Birdback/manage.py  
+
+1. logbook   
+A cool logging replacement for Python.   
+Project Source: https://github.com/mitsuhiko/logbook   
+
+  
+ 
   		  

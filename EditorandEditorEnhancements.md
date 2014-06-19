@@ -146,3 +146,13 @@ Project Documentation: http://www.sublimelinter.com/en/latest/
 DashDoc provides integration of Dash into Sublime Text.    
 Project Source: https://github.com/farcaller/DashDoc    
         
+1. Tern plugin for Vim   
+Tern plugin for Vim.    
+Project Source: https://github.com/marijnh/tern_for_vim  
+
+1. vim-orgmode   
+Text outlining and task management for Vim based on Emacs' Org-Mode.   
+Project Source: https://github.com/jceb/vim-orgmode    
+Project Homepage: http://www.vim.org/scripts/script.php?script_id=3642   
+  
+		

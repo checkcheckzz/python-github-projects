@@ -71,4 +71,16 @@ Project Documentation: http://pycassa.github.io/pycassa/
 1. sqlalchemy   
 The Python SQL Toolkit and Object Relational Mapper.    
 Project Source: https://github.com/zzzeek/sqlalchemy   
+
+1. dex   
+Index and query analyzer for MongoDB: compares MongoDB log files and index entries to make index recommendations.   
+Project Source: https://github.com/mongolab/dex   
+
+1. pgtune    
+PostgreSQL configuration wizard.    
+Project Source: https://github.com/gregs1104/pgtune    
+Project Homepage: http://pgfoundry.org/projects/pgtune/   
+
+  
+
   

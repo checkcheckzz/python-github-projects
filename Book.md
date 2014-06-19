@@ -33,4 +33,17 @@ Online Book Address: http://www.railstutorial.org/
 1. scientific-python-lectures   
 Lectures on scientific computing with python, as IPython notebooks.    
 Project Source: https://github.com/jrjohansson/scientific-python-lectures   
+
+1. curriculum   
+Ops School Curriculum. Ops School is a comprehensive program that will help you learn to be an operations engineer.       
+Project Source: shttps://github.com/opsschool/curriculum    
+Online Book Address: http://www.opsschool.org/en/latest/ 
+
+1. scipy-lecture-notes   
+Tutorial material on the scientific Python ecosystem.   
+Project Source: https://github.com/scipy-lectures/scipy-lecture-notes   
+Online Book Address: http://scipy-lectures.github.io/   
+
+  
+
    

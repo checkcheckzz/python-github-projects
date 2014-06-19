@@ -85,4 +85,14 @@ Project Homepage: http://falcao.it/HTTPretty/
 Mininet emulates a complete network of hosts, links, and switches on a single machine.  
 Project Source: https://github.com/mininet/mininet  
 Project Homepage: http://mininet.org/  
+
+1. inception   
+Inception is a FireWire physical memory manipulation and hacking tool exploiting IEEE 1394 SBP-2 DMA.    
+Project Source: https://github.com/carmaa/inception    
+Project Homepage: http://www.breaknenter.org/projects/inception/   
+
+1. wallproxy   
+An intelligent scalable proxy framework.   
+Project Source: https://github.com/wallproxy/wallproxy     
+Project Homepage: https://code.google.com/p/wallproxy/   
  

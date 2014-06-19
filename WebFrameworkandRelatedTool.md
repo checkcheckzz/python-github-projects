@@ -133,7 +133,8 @@ Project Documentation: http://django-skel.readthedocs.org/en/latest/
 
 1. django-base-template  
 A Django 1.6 base template with HTML5Boilerplate and Twitter Bootstrap.   
-Project Source: https://github.com/xenith/django-base-template   
+Project Source: https://github.com/xenith/django-base-template  
+ 
 1. gargoyle   
 Gargoyle is a platform built on top of Django which allows you to switch functionality of your application on and off based on conditions.  
 Project Source: https://github.com/disqus/gargoyle  
@@ -195,6 +196,18 @@ Project Source: https://github.com/kmmbvnr/django-jenkins
 1. django-paypal   
 A pluggable Django application for integrating PayPal Payments Standard or Payments Pro.   
 Project Source: https://github.com/johnboxall/django-paypal   
+
+1. horizon   
+Horizon is a Django-based project aimed at providing a complete OpenStack Dashboard along with an extensible framework for building new dashboards from reusable components.   
+Project Source: https://github.com/openstack/horizon   
+
+1. django-avatar   
+A Django app for handling user avatars.  
+Project Source: A Django app for handling user avatars.   
+
+1. django-userena   
+Accounts for Django made beautifully simple.   
+Project Source: https://github.com/bread-and-pepper/django-userena   
         
 1. flask  
 Flask is a microframework for Python based on Werkzeug and Jinja2.  
@@ -276,3 +289,8 @@ Jinja2 is a template engine written in pure Python. It provides a Django inspire
 expressions and an optional sandboxed environment.  
 Project Source: https://github.com/mitsuhiko/jinja2  
 Project Homepage: http://jinja.pocoo.org/
+
+1. AutobahnPython   
+WebSocket & WAMP for Python on Twisted and asyncio.   
+Project Source: https://github.com/tavendo/AutobahnPython  
+Project Homepage: http://autobahn.ws/python/   

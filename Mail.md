@@ -28,3 +28,9 @@ Project Website: http://gmvault.org/
 Python library for reading IMAP mailboxes and converting email content to machine readable data.   
 Proeject Source: https://github.com/martinrusev/imbox. 
 
+1. mailin   
+Artisanal inbound emails for every web app.   
+Project Source: https://github.com/Flolagale/mailin    
+Project Homepage: http://mailin.io/   
+
+
