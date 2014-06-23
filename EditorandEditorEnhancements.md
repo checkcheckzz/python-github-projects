@@ -154,5 +154,8 @@ Project Source: https://github.com/marijnh/tern_for_vim
 Text outlining and task management for Vim based on Emacs' Org-Mode.   
 Project Source: https://github.com/jceb/vim-orgmode    
 Project Homepage: http://www.vim.org/scripts/script.php?script_id=3642   
-  
+
+1. Gist   
+Sublime Text plugin for creating new Gists from selected text.   
+Project Source: https://github.com/condemil/Gist   
 		

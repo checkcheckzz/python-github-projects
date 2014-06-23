@@ -32,4 +32,9 @@ Project Source: https://github.com/99designs/colorific
 1. starwars-dot-gif   
 Python script to generate gifs from star wars.   
 Project Source: https://github.com/LindseyB/starwars-dot-gif    
+
+1. python-qrcode  
+Python QR Code image generator.   
+Project Source: https://github.com/lincolnloop/python-qrcode   
+Project Documentation: https://pypi.python.org/pypi/qrcode     
   

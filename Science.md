@@ -89,4 +89,8 @@ Project Homepage: https://www.dlitz.net/software/pycrypto/
 The Biopython Project is an international association of developers of freely available Python tools for computational molecular biology.   
 Project Source: https://github.com/biopython/biopython   
 Project Homepage: http://biopython.org/wiki/Main_Page   
+
+1. simpleai    
+simple artificial intelligence utilities   
+Project Source: https://github.com/simpleai-team/simpleai    
   

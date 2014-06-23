@@ -52,6 +52,7 @@ Python library for interacting with the Apple Push Notification service.
 Project Source: https://github.com/djacobs/PyAPNs   
 Project Documentation: https://pypi.python.org/pypi/apns/   
 
-
-
+1. docker-py   
+An API client for docker written in Python.   
+Project Source: https://github.com/dotcloud/docker-py
    

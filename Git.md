@@ -34,4 +34,10 @@ Project Source: https://github.com/gitpython-developers/GitPython
      
 1. git-sweep   
 A command-line tool that helps you clean up Git branches that have been merged into master.  
-Project Source: https://github.com/arc90/git-sweep	 
+Project Source: https://github.com/arc90/git-sweep
+
+1. git-cola   
+The highly caffeinated Git GUI.   
+Project Source: https://github.com/git-cola/git-cola   
+Project Homepage: http://git-cola.github.io/  
+	 

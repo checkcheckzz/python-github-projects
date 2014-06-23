@@ -207,7 +207,23 @@ Project Source: A Django app for handling user avatars.
 
 1. django-userena   
 Accounts for Django made beautifully simple.   
-Project Source: https://github.com/bread-and-pepper/django-userena   
+Project Source: https://github.com/bread-and-pepper/django-userena 
+
+1. django-redis-cache    
+A Redis cache backend for django.    
+Project Source: https://github.com/sebleier/django-redis-cache   
+  
+
+1. mongodb-engine   
+Django MongoDB Backend.   
+Project Source: https://github.com/django-nonrel/mongodb-engine   
+Project Homepage: http://django-nonrel.org/  
+
+1. django-filebrowser   
+Media-Management with Grappelli .   
+Project Source: https://github.com/sehmaschine/django-filebrowser   
+Project Documentation: http://django-filebrowser.readthedocs.org/en/latest/  
+
         
 1. flask  
 Flask is a microframework for Python based on Werkzeug and Jinja2.  
@@ -240,6 +256,15 @@ Project Source: https://github.com/kennethreitz/flask-sockets
 1. flask-sqlalchemy   
 Adds SQLAlchemy support to Flask.  
 Project Source: https://github.com/mitsuhiko/flask-sqlalchemy  
+
+1. flaskr-tdd   
+Intro to Flask, Test Driven Development (TDD), and jQuery.   
+Project Source: https://github.com/mjhea0/flaskr-tdd 
+
+1. Flask-Foundation  
+A solid foundation for your flask app.   
+Project Source: https://github.com/JackStouffer/Flask-Foundation   
+project Hoempage: https://jackstouffer.github.io/Flask-Foundation/ 
 
 1. eve  
 Eve is an out-of-the-box, highly customizable and fully featured RESTful Web API framework that you can use to effortlessly build and deploy your own APIs.  

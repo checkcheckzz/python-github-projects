@@ -247,5 +247,10 @@ Project Source: https://github.com/hut/ranger
 
 1. salmon   
 A simple monitoring system.    
-Project Source: https://github.com/lincolnloop/salmon   
-       
+Project Source: https://github.com/lincolnloop/salmon  
+
+1. shinken   
+Flexible and scalable monitoring framework.    
+Project Source: https://github.com/naparuba/shinken   
+Project Homepage: http://www.shinken-monitoring.org/  
+           

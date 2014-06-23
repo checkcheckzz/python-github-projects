@@ -296,6 +296,22 @@ Project Source: https://github.com/Birdback/manage.py
 A cool logging replacement for Python.   
 Project Source: https://github.com/mitsuhiko/logbook   
 
-  
- 
-  		  
+1. WebSocket-for-Python   
+WebSocket client and server library for Python 2 and 3 as well as PyPy.   
+Project Source: https://github.com/Lawouach/WebSocket-for-Python   
+Project Documentation: https://ws4py.readthedocs.org/en/latest/   
+
+1. glacier-cli   
+Command-line interface to Amazon Glacier.   
+Project Source: https://github.com/basak/glacier-cli   
+   		  
+1. cryptography   
+cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.    
+Project Source: https://github.com/pyca/cryptography   
+Project Documentation: https://cryptography.io/en/latest/
+
+1. pyquery   
+A jquery-like library for python.    
+Project Source: https://github.com/gawel/pyquery    
+Project Documentation: http://pyquery.readthedocs.org/en/latest/   
+ 		  
