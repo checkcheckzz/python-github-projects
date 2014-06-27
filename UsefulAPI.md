@@ -16,6 +16,7 @@ Project Source: https://github.com/ryanmcgrath/twython
 Project Documentation: https://github.com/ryanmcgrath/twython  
 
 1. python-twitter   
+A Python wrapper around the Twitter API.    
 Project Source: https://github.com/bear/python-twitter    
 Project Documentation: https://dev.twitter.com/docs
  

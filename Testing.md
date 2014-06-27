@@ -1,7 +1,7 @@
 ##Testing
 
 1. python_koans  
-Python Koans is a port of ¡°Ruby Koans¡± it is an interactive tutorial for learning Python by practicing TDD and making tests pass.  
+Python Koans is a port of "Ruby Koans" it is an interactive tutorial for learning Python by practicing TDD and making tests pass.  
 Project Source: https://github.com/gregmalcolm/python_koans  
 Online Demo Address:  http://www.youtube.com/watch?v=e2WXgXEjbHY&list=PL5Up_u-XkWgNcunP_UrTJG_3EXgbK2BQJ&index=1
 
