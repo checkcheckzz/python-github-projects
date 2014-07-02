@@ -52,5 +52,5 @@ send me a pull request and follow the [contribution guide](https://github.com/ch
 
 ###License
 
-Python-open-projects is licensed under the terms of the MIT License. See the [LICENSE file](https://github.com/checkcheckzz/Python-open-projects/blob/master/LICENSE) for details.
+Python-open-projects is licensed under the [CC-By 3.0 License](http://creativecommons.org/licenses/by/3.0/).
 
