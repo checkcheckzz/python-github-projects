@@ -45,13 +45,13 @@ h1 {
 }
 
 .author a {
-	text-decoration: none;
-	color: #FF6600;
+  text-decoration: none;
+  color: #FF6600;
 	
 }
 
 .author a:hover {
-	color: #FF0000;
+  color: #FF0000;
 }
 
 
