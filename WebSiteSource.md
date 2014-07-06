@@ -22,5 +22,12 @@ Project Homepage: http://class2go.stanford.edu/
 
 1. pythondotorg   
 The new python.org.  
-Project Source: https://github.com/python/pythondotorg   
+Project Source: https://github.com/python/pythondotorg 
+
+1. zamboni   
+The backend of the Firefox Marketplace.    
+Project Source: https://github.com/mozilla/zamboni    
+Project Documentation: http://zamboni.readthedocs.org/en/latest/  
+
+  
   

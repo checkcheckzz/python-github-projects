@@ -33,4 +33,12 @@ Artisanal inbound emails for every web app.
 Project Source: https://github.com/Flolagale/mailin    
 Project Homepage: http://mailin.io/   
 
+1. envelopes   
+Mailing for human beings.    
+Project Source: https://github.com/tomekwojcik/envelopes    
+Project Documentation: http://tomekwojcik.github.io/envelopes/
 
+1. mailur   
+Webmail client with Gmail-like conversations.   
+Project Source: https://github.com/naspeh/mailur     
+Project Homepage: http://pusto.org/en/mailr/  

@@ -224,7 +224,28 @@ Media-Management with Grappelli .
 Project Source: https://github.com/sehmaschine/django-filebrowser   
 Project Documentation: http://django-filebrowser.readthedocs.org/en/latest/  
 
-        
+1. django-twitter-tag   
+A django template tag to display user's recent tweets.   
+project Source: https://github.com/coagulant/django-twitter-tag
+
+1. django-pagination   
+A set of utilities for creating robust pagination tools throughout a django application.    
+Project Source: https://github.con/ericflo/django-pagination    
+Project Homepage: http://code.google.com/p/django-pagination/
+
+1. django-drip    
+Use the admin to manage drip campaign emails using querysets on Django's User model.    
+Project Source: https://github.com/zapier/django-drip    
+
+1. django-vanilla-views   
+Beautifully simple class-based views.    
+Project Source: https://github.com/tomchristie/django-vanilla-views
+
+1. django-filer   
+File and Image Management Application for django.   
+Project Source: https://github.com/stefanfoulis/django-filer      
+Project Documentation: http://django-filer.readthedocs.org/en/latest/index.html  
+         
 1. flask  
 Flask is a microframework for Python based on Werkzeug and Jinja2.  
 Project Source: https://github.com/mitsuhiko/flask  

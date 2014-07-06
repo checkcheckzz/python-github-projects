@@ -56,4 +56,8 @@ Project Documentation: https://pypi.python.org/pypi/apns/
 1. docker-py   
 An API client for docker written in Python.   
 Project Source: https://github.com/dotcloud/docker-py
+
+1. PyGithub   
+Python library implementing the full GitHub API v3.   
+Project Source: https://github.com/jacquev6/PyGithub  
    

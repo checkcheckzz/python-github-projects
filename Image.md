@@ -37,4 +37,10 @@ Project Source: https://github.com/LindseyB/starwars-dot-gif
 Python QR Code image generator.   
 Project Source: https://github.com/lincolnloop/python-qrcode   
 Project Documentation: https://pypi.python.org/pypi/qrcode     
+
+1. scikit-image   
+Image Processing SciKit     
+Project Source: https://github.com/scikit-image/scikit-image    
+Project Homepage: http://scikit-image.org/
+
   

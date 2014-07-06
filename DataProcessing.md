@@ -31,3 +31,9 @@ Project Source: https://github.com/isnowfy/snownlp
 Chinese text segmentation.  
 Project Source: https://github.com/fxsjy/jieba  
 Online Demo Address: http://jiebademo.ap01.aws.af.cm/ 
+
+1. cubes   
+Light-weight Python OLAP framework for multi-dimensional data analysis.   
+Project Source: https://github.com/Stiivi/cubes   
+Project Homepage: http://cubes.databrewery.org/  
+   

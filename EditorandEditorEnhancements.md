@@ -159,3 +159,16 @@ Project Homepage: http://www.vim.org/scripts/script.php?script_id=3642
 Sublime Text plugin for creating new Gists from selected text.   
 Project Source: https://github.com/condemil/Gist   
 		
+1. BrowserRefresh-Sublime   
+This plugin will switch from ST2 and ST3 to Google Chrome, Google Chrome Canary, Safari, 
+Firefox or Opera and reload the active tab.   
+Project Source: https://github.com/gcollazo/BrowserRefresh-Sublime    
+Project Homepage:  http://gcollazo.github.io/BrowserRefresh-Sublime/ 
+
+1. Origami   
+Origami is a new way of thinking about panes in Sublime Text 2 and 3.   
+Project Source: https://github.com/SublimeText/Origami  
+
+
+ 
+		

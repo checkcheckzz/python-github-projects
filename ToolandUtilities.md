@@ -313,5 +313,17 @@ Project Documentation: https://cryptography.io/en/latest/
 1. pyquery   
 A jquery-like library for python.    
 Project Source: https://github.com/gawel/pyquery    
-Project Documentation: http://pyquery.readthedocs.org/en/latest/   
+Project Documentation: http://pyquery.readthedocs.org/en/latest/  
+
+1. schema    
+schema is a library for validating Python data structures.    
+Project Source: https://github.com/halst/schema   
+ 
+1. unoconv    
+Universal Office Converter - Convert between any document format supported by LibreOffice/OpenOffice.    
+Project Source: https://github.com/dagwieers/unoconv      
+Project Homepage: http://dag.wiee.rs/home-made/unoconv/   
+ 
+
+ 
  		  
