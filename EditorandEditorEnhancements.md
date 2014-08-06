@@ -168,7 +168,3 @@ Project Homepage:  http://gcollazo.github.io/BrowserRefresh-Sublime/
 1. Origami   
 Origami is a new way of thinking about panes in Sublime Text 2 and 3.   
 Project Source: https://github.com/SublimeText/Origami  
-
-
- 
-		

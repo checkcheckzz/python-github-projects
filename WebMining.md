@@ -18,7 +18,6 @@ Project Source: https://github.com/scrapinghub/portia
 Html Content / Article Extractor, web scrapping lib in Python.  
 Project Source: https://github.com/grangier/python-goose
 
-
 1. newspaper  
 News extraction, article extraction and content curation in python.  
 Project Source: https://github.com/codelucas/newspaper  
@@ -28,3 +27,8 @@ Project Homepage: http://newspaper.readthedocs.org/en/latest/
 Gensim is a Python library for topic modelling, document indexing and similarity retrieval with large corpora.   
 Project Source: https://github.com/piskvorky/gensim  
 Project Homepage: http://radimrehurek.com/gensim/  
+
+1. distribute_crawler   
+A distributed web crawler.    
+Project Source: https://github.com/gnemoug/distribute_crawler   
+

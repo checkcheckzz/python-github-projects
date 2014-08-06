@@ -132,3 +132,18 @@ Peer-to-peer Bitcoin mining pool.
 Project Source: https://github.com/forrestv/p2pool   
 Project Homepage: http://p2pool.in/    
   
+1. MIDAS   
+Mac Intrusion Detection Analysis System.    
+Project Source: https://github.com/etsy/MIDAS   
+
+1. Radicale    
+A simple CalDAV (calendar) and CardDAV (contact) server.     
+Project Source: https://github.com/Kozea/Radicale    
+Project Homepage: http://radicale.org/   
+
+1. erpnext    
+Open Source ERP built for the Web.     
+Project Source: https://github.com/frappe/erpnext     
+Project Homepage: https://erpnext.com/   
+
+  

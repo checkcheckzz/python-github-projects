@@ -300,10 +300,6 @@ Project Source: https://github.com/mitsuhiko/logbook
 WebSocket client and server library for Python 2 and 3 as well as PyPy.   
 Project Source: https://github.com/Lawouach/WebSocket-for-Python   
 Project Documentation: https://ws4py.readthedocs.org/en/latest/   
-
-1. glacier-cli   
-Command-line interface to Amazon Glacier.   
-Project Source: https://github.com/basak/glacier-cli   
    		  
 1. cryptography   
 cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.    
@@ -324,6 +320,15 @@ Universal Office Converter - Convert between any document format supported by Li
 Project Source: https://github.com/dagwieers/unoconv      
 Project Homepage: http://dag.wiee.rs/home-made/unoconv/   
  
+1. magpie    
+Git-backed Evernote replacement.    
+Project Source: https://github.com/charlesthomas/magpie      
 
- 
- 		  
+1. workflow    
+minimalist file based workflow.   
+Project Source: https://github.com/mdipierro/workflow    
+
+1. binwalk    
+Firmware Analysis Tool.    
+Project Source: https://github.com/devttys0/binwalk    
+	  

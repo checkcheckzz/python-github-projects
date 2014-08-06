@@ -92,5 +92,11 @@ Project Homepage: http://biopython.org/wiki/Main_Page
 
 1. simpleai    
 simple artificial intelligence utilities   
-Project Source: https://github.com/simpleai-team/simpleai    
+Project Source: https://github.com/simpleai-team/simpleai  
+
+1. emcee    
+The Python ensemble sampling toolkit for affine-invariant MCMC     
+Project Source: https://github.com/dfm/emcee     
+Project Homepage: http://dan.iel.fm/emcee/current/  
+  
   

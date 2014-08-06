@@ -56,6 +56,7 @@ Import LLVM bitcode directly into Python and use it as an extension module.
 Project Source: https://github.com/dabeaz/bitey  
 
 1. Adafruit-Raspberry-Pi-Python-Code  
+Adafruit library code for Raspberry Pi.    
 Project Source: https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code  
 
 1. overholt   
@@ -66,4 +67,20 @@ Project Homepage: http://mattupstate.com/python/2013/06/26/how-i-structure-my-fl
 1. diy-lisp   
 A hands-on, test driven guide to implementing a simple programming language.   
 Project Source: https://github.com/kvalle/diy-lisp  
+
+1. awesome-python    
+A curated list of awesome Python frameworks, libraries and software.   
+Project Source: https://github.com/vinta/awesome-python   
+
+1. CommonRegex     
+A collection of common regular expressions bundled with an easy to use interface.     
+Project Source: https://github.com/madisonmay/CommonRegex
+
+1. WeRoBot    
+a wechat robot framework.    
+Project Source: https://github.com/whtsky/WeRoBot   
+
+
+
+
   

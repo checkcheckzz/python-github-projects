@@ -38,3 +38,7 @@ Project Homepage: http://www.paulhammond.org/webkit2png/
 A command-line utility that creates projects from cookiecutters (project templates).  
 Project Source: https://github.com/audreyr/cookiecutter   
 Project Documentation: http://cookiecutter.readthedocs.org/en/latest/
+
+1. glacier-cli   
+Command-line interface to Amazon Glacier.   
+Project Source: https://github.com/basak/glacier-cli   

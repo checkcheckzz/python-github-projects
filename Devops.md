@@ -257,5 +257,10 @@ Project Homepage: http://www.shinken-monitoring.org/
 1. honcho   
 honcho: a python clone of Foreman, for managing Procfile-based applications.    
 Project Source: https://github.com/nickstenning/honcho   
-Project Documentation:  https://pypi.python.org/pypi/honcho 
-		   
+Project Documentation:  https://pypi.python.org/pypi/honcho
+
+1. memory_profiler    
+Monitor Memory usage of Python code.    
+Project Source: https://github.com/fabianp/memory_profiler     
+Project Documentation:  https://pypi.python.org/pypi/memory_profiler
+

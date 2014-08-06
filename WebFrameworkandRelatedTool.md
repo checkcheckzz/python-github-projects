@@ -213,7 +213,6 @@ Project Source: https://github.com/bread-and-pepper/django-userena
 A Redis cache backend for django.    
 Project Source: https://github.com/sebleier/django-redis-cache   
   
-
 1. mongodb-engine   
 Django MongoDB Backend.   
 Project Source: https://github.com/django-nonrel/mongodb-engine   
@@ -245,6 +244,11 @@ Project Source: https://github.com/tomchristie/django-vanilla-views
 File and Image Management Application for django.   
 Project Source: https://github.com/stefanfoulis/django-filer      
 Project Documentation: http://django-filer.readthedocs.org/en/latest/index.html  
+
+1. model_mommy    
+Model-mommy offers you a smart way to create fixtures for testing in Django.     
+Project Source: https://github.com/vandersonmota/model_mommy    
+Project Documentation: http://model-mommy.readthedocs.org/en/latest/
          
 1. flask  
 Flask is a microframework for Python based on Werkzeug and Jinja2.  
@@ -286,6 +290,11 @@ Project Source: https://github.com/mjhea0/flaskr-tdd
 A solid foundation for your flask app.   
 Project Source: https://github.com/JackStouffer/Flask-Foundation   
 project Hoempage: https://jackstouffer.github.io/Flask-Foundation/ 
+
+1. flask-api   
+Browsable web APIs for Flask.   
+Project Source: https://github.com/tomchristie/flask-api    
+Project Homepage: http://www.flaskapi.org/
 
 1. eve  
 Eve is an out-of-the-box, highly customizable and fully featured RESTful Web API framework that you can use to effortlessly build and deploy your own APIs.  
