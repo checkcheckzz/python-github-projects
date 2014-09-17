@@ -330,5 +330,19 @@ Project Source: https://github.com/mdipierro/workflow
 
 1. binwalk    
 Firmware Analysis Tool.    
-Project Source: https://github.com/devttys0/binwalk    
-	  
+Project Source: https://github.com/devttys0/binwalk  
+
+1. lxml  
+The lxml XML toolkit for Python   
+Project Source: https://github.com/lxml/lxml  
+
+1. curator   
+Tending your time-series indices in Elasticsearch.   
+Project Source: https://github.com/elasticsearch/curator   
+Project Documentation: https://github.com/elasticsearch/curator/wiki    
+
+1. simplejson    
+simplejson is a simple, fast, extensible JSON encoder/decoder for Python.    
+Project Source: https://github.com/simplejson/simplejson     
+Project Documentation: http://simplejson.readthedocs.org/en/latest/   
+ 	  

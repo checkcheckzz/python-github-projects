@@ -30,5 +30,10 @@ Project Homepage: http://radimrehurek.com/gensim/
 
 1. distribute_crawler   
 A distributed web crawler.    
-Project Source: https://github.com/gnemoug/distribute_crawler   
+Project Source: https://github.com/gnemoug/distribute_crawler     
+
+1. pyspider   
+A spider system in python.    
+Project Source: https://github.com/binux/pyspider    
+
 

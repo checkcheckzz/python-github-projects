@@ -89,3 +89,14 @@ Project Homepage: http://ponyorm.com/
 1. kule    
 Kule is a REST interface for MongoDB.   
 Project Source: https://github.com/fatiherikli/kule    
+
+1. mongokit   
+MongoKit framework try to keep its simplicity when you manage mongodb in python.    
+Project Source: https://github.com/namlook/mongokit  
+
+1. bulbs    
+A Python persistence framework for graph databases like Neo4j, OrientDB and Titan.    
+Project Source: https://github.com/espeed/bulbs   
+Project Homepage: http://bulbflow.com/   
+
+   

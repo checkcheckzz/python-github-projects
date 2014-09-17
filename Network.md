@@ -95,4 +95,12 @@ Project Homepage: http://www.breaknenter.org/projects/inception/
 An intelligent scalable proxy framework.   
 Project Source: https://github.com/wallproxy/wallproxy     
 Project Homepage: https://code.google.com/p/wallproxy/   
+
+1. httpie   
+HTTPie is a command line HTTP client, a user-friendly cURL replacement.   
+Project Source: https://github.com/jakubroztocil/httpie  
+
+1. iSniff-GPS   
+Passive sniffing tool for capturing and visualising WiFi location data disclosed by iOS devices.    
+Project Source: https://github.com/hubert3/iSniff-GPS   
  

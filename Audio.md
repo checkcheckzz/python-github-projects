@@ -36,5 +36,10 @@ Project Source: https://github.com/iambus/youku-lixian
 1. cherrymusic     
 CherryMusic is a music streaming server based on CherryPy and jPlayer.     
 Project Source: https://github.com/devsnd/cherrymusic    
-Project Homepage: http://www.fomori.org/cherrymusic/   
+Project Homepage: http://www.fomori.org/cherrymusic/  
+
+1. mps    
+Terminal based MP3 search, playback and download.    
+Project Source: https://github.com/np1/mps    
+ 
    

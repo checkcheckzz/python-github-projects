@@ -219,7 +219,7 @@ Project Source: https://github.com/django-nonrel/mongodb-engine
 Project Homepage: http://django-nonrel.org/  
 
 1. django-filebrowser   
-Media-Management with Grappelli .   
+Media-Management with Grappelli.   
 Project Source: https://github.com/sehmaschine/django-filebrowser   
 Project Documentation: http://django-filebrowser.readthedocs.org/en/latest/  
 
@@ -244,6 +244,11 @@ Project Source: https://github.com/tomchristie/django-vanilla-views
 File and Image Management Application for django.   
 Project Source: https://github.com/stefanfoulis/django-filer      
 Project Documentation: http://django-filer.readthedocs.org/en/latest/index.html  
+
+1. django-angular   
+Let AngularJS play well with Django.   
+Project Source: https://github.com/jrief/django-angular   
+Project Documentation: http://django-angular.readthedocs.org/en/latest/   
 
 1. model_mommy    
 Model-mommy offers you a smart way to create fixtures for testing in Django.     
@@ -349,3 +354,13 @@ Project Homepage: http://jinja.pocoo.org/
 WebSocket & WAMP for Python on Twisted and asyncio.   
 Project Source: https://github.com/tavendo/AutobahnPython  
 Project Homepage: http://autobahn.ws/python/   
+
+1. twisted  
+Event-driven networking engine written in Python.    
+Project Source: https://github.com/twisted/twisted   
+Project Homepage: https://twistedmatrix.com/trac/   
+
+1. diesel   
+Greenlet-based event I/O Framework for Python.   
+Project Source: https://github.com/jamwt/diesel   
+Project Homepage: http://diesel.io/

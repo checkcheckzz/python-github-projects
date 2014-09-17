@@ -31,5 +31,10 @@ Project Source: https://github.com/binarydud/pyres
 1. kombu   
 Kombu is a messaging library for Python.  
 Project Source: https://github.com/celery/kombu   
-Project Documentation: http://kombu.readthedocs.org/en/latest/  
-       
+Project Documentation: http://kombu.readthedocs.org/en/latest/    
+
+1. huey    
+a little multi-threaded task queue for python    
+Project Source: a little multi-threaded task queue for python    
+Project Documentation: http://huey.readthedocs.org/en/latest/   
+        

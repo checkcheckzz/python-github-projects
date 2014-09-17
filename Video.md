@@ -33,4 +33,6 @@ A YouTube/Youku/Niconico video downloader written in Python 3.
 Project Source: https://github.com/soimort/you-get   
 Project Homepage: http://www.soimort.org/you-get/   
 
-
+1. SickRage   
+SickRage - Searches TheTVDB and TVRage for shows.    
+Project Source: https://github.com/echel0n/SickRage    

@@ -41,4 +41,10 @@ Project Documentation: http://tomekwojcik.github.io/envelopes/
 1. mailur   
 Webmail client with Gmail-like conversations.   
 Project Source: https://github.com/naspeh/mailur     
-Project Homepage: http://pusto.org/en/mailr/  
+Project Homepage: http://pusto.org/en/mailr/      
+
+1. lamson    
+Pythonic SMTP Application Server.    
+Project Source: https://github.com/zedshaw/lamson    
+Project Homepage: http://lamsonproject.org/    
+
