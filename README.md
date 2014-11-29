@@ -5,7 +5,7 @@
 If you want to build a cool Python project from scratch, a good start point is to find a related project.  
 
 This repository lists the hot (by number of stars) projects on GitHub. New projects are added gradually. The classification is based
-on the project's main purpose. If a project is a client for a database, it is listed under the database category.
+on the project's main purpose. If a project is a client driver for a database, it is listed under the database category.
 
 A project may belong to several categories. If you think that a project is listed under an incorrect category
 or a new category should be added, please open an issue. If you want to add a new project to certain category, just
@@ -52,5 +52,5 @@ send me a pull request and follow the [contribution guide](https://github.com/ch
 
 ###License
 
-Python-open-projects is licensed under the [CC-By 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+Python-github-projects is licensed under the [CC-By 3.0 License](http://creativecommons.org/licenses/by/3.0/).
 
