@@ -65,7 +65,7 @@ h1 {
   -moz-transform: scale(.7);
   transform: scale(.7);
   -webkit-animation: heart .4s infinite linear alternate-reverse;
-  -moz-animation: heart .4 infinite linear alternate-reverse;
+  -moz-animation: heart .4s infinite linear alternate-reverse;
   animation: heart .4s infinite linear alternate-reverse;
 }
 @-webkit-keyframes heart {
