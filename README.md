@@ -2,6 +2,8 @@
 
 > Collect and classify Python open projects on GitHub
 
+A similar Scala version is [here](http://itgeekworkhard.com/scala-github-projects/).
+
 If you want to build a cool Python project from scratch, a good start point is to find a related project.  
 
 This repository lists the hot (by number of stars) projects on GitHub. New projects are added gradually. The classification is based
