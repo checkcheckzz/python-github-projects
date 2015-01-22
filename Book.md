@@ -44,6 +44,11 @@ Tutorial material on the scientific Python ecosystem.
 Project Source: https://github.com/scipy-lectures/scipy-lecture-notes   
 Online Book Address: http://scipy-lectures.github.io/   
 
+1. full stack python  
+The right place to learn everything you need to deploy and run a production Python web application.  
+Project Source: https://github.com/makaimc/fullstackpython.github.com  
+Online Book Address: http://www.fullstackpython.com/  
+
   
 
    
