@@ -19,3 +19,9 @@ Project Homepage: http://hyde.github.io/
 A static website and blog generator.   
 Project Source: https://github.com/getnikola/nikola   
 Project Homepage: http://getnikola.com/  
+
+1. mkdocs   
+Project documentation with Markdown   
+Project Source: https://github.com/tomchristie/mkdocs/    
+Project Homepage: http://www.mkdocs.org/  
+  
