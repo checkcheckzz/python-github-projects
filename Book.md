@@ -44,7 +44,18 @@ Tutorial material on the scientific Python ecosystem.
 Project Source: https://github.com/scipy-lectures/scipy-lecture-notes   
 Online Book Address: http://scipy-lectures.github.io/   
 
+<<<<<<< HEAD
 1. neural-networks-and-deep-learning     
 Code samples for my book "Neural Networks and Deep Learning".    
 Project Source: https://github.com/mnielsen/neural-networks-and-deep-learning  
   
+=======
+1. full stack python  
+The right place to learn everything you need to deploy and run a production Python web application.  
+Project Source: https://github.com/makaimc/fullstackpython.github.com  
+Online Book Address: http://www.fullstackpython.com/  
+
+  
+
+   
+>>>>>>> ae191530286d79d63f3dab53d126acc98cab21fe
