@@ -68,6 +68,3 @@ Project Homepage: http://elweb.co/
 pyes is a pythonic way to use ElasticSearch since 2010.    
 Project Source: https://github.com/aparo/pyes    
 Project Documentation: https://pypi.python.org/pypi/pyes/   
-
-
-  

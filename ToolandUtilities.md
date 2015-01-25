@@ -345,4 +345,13 @@ Project Documentation: https://github.com/elasticsearch/curator/wiki
 simplejson is a simple, fast, extensible JSON encoder/decoder for Python.    
 Project Source: https://github.com/simplejson/simplejson     
 Project Documentation: http://simplejson.readthedocs.org/en/latest/   
- 	  
+
+1. mypy    
+Mypy is an optional static type checker for Python.     
+Project Source: https://github.com/JukkaL/mypy      
+Project Website: http://www.mypy-lang.org/   
+
+1. astropy     
+Repository for the Astropy core package.     
+Project Source: https://github.com/astropy/astropy    
+Project Website: http://www.astropy.org/ 

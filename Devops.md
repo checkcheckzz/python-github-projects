@@ -264,3 +264,20 @@ Monitor Memory usage of Python code.
 Project Source: https://github.com/fabianp/memory_profiler     
 Project Documentation:  https://pypi.python.org/pypi/memory_profiler
 
+1. gunnery    
+Remote task execution tool.    
+Project Source: https://github.com/gunnery/gunnery    
+Project Homepage: http://gunnery.io/ 
+
+1. pythonz     
+Python installation manager supporting CPython, Stackless, PyPy and Jython.     
+Project Source: https://github.com/saghul/pythonz     
+Project Homepage: http://saghul.github.io/pythonz/   
+
+1. pyinstrument    
+Call stack profiler for Python. Inspired by Apple's Instruments.app.   
+Project Source: https://github.com/joerick/pyinstrument    
+
+1. maestro-ng    
+A command-line utility that allows for automatically managing the orchestrated deployment and bring up of a set of service instance containers that compose an environment on a set of target host machines.    
+Project Source: https://github.com/signalfuse/maestro-ng    

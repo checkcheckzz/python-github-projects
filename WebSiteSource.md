@@ -28,6 +28,3 @@ Project Source: https://github.com/python/pythondotorg
 The backend of the Firefox Marketplace.    
 Project Source: https://github.com/mozilla/zamboni    
 Project Documentation: http://zamboni.readthedocs.org/en/latest/  
-
-  
-  

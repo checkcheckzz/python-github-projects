@@ -44,6 +44,7 @@ Tutorial material on the scientific Python ecosystem.
 Project Source: https://github.com/scipy-lectures/scipy-lecture-notes   
 Online Book Address: http://scipy-lectures.github.io/   
 
+1. neural-networks-and-deep-learning     
+Code samples for my book "Neural Networks and Deep Learning".    
+Project Source: https://github.com/mnielsen/neural-networks-and-deep-learning  
   
-
-   

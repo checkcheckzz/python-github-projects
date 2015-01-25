@@ -146,4 +146,25 @@ Open Source ERP built for the Web.
 Project Source: https://github.com/frappe/erpnext     
 Project Homepage: https://erpnext.com/   
 
-  
+1. satchless     
+E-commerce for Python.     
+Project Source: https://github.com/mirumee/satchless     
+Project Homepage: http://satchless.com/  
+
+1. Radicale   
+A simple CalDAV (calendar) and CardDAV (contact) server.     
+Project Source: https://github.com/Kozea/Radicale     
+Project Homepage: http://radicale.org/   
+
+1. Letterpress     
+A minimal, Markdown based blogging system written in Python.    
+Project Source: https://github.com/an0/Letterpress     
+Project Homepage: http://wangling.me/2013/01/letterpress.html 
+
+1. electrum     
+lightweight Bitcoin client.    
+Project Source: https://github.com/spesmilo/electrum  
+
+1. python-lust    
+Python Little Unix Server Toolkit.    
+Project Source: https://github.com/zedshaw/python-lust  

@@ -91,12 +91,22 @@ Project Source: https://github.com/biopython/biopython
 Project Homepage: http://biopython.org/wiki/Main_Page   
 
 1. simpleai    
-simple artificial intelligence utilities   
+simple artificial intelligence utilities.   
 Project Source: https://github.com/simpleai-team/simpleai  
 
 1. emcee    
-The Python ensemble sampling toolkit for affine-invariant MCMC     
+The Python ensemble sampling toolkit for affine-invariant MCMC.     
 Project Source: https://github.com/dfm/emcee     
 Project Homepage: http://dan.iel.fm/emcee/current/  
   
-  
+1. simmetrica   
+Lightweight framework for collecting and aggregating event metrics as timeseries data.     
+Project Source: https://github.com/o/simmetrica
+
+1. dedupe     
+dedupe is a python library that uses machine learning to perform de-duplication and entity resolution quickly on structured data.       
+Project Source: https://github.com/datamade/dedupe  
+
+1. bayesian-belief-networks    
+Pythonic Bayesian Belief Network Package, supporting creation of and exact inference on Bayesian Belief Networks specified as pure python functions.    
+Project Source: https://github.com/eBay/bayesian-belief-networks   

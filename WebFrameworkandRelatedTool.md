@@ -254,6 +254,19 @@ Project Documentation: http://django-angular.readthedocs.org/en/latest/
 Model-mommy offers you a smart way to create fixtures for testing in Django.     
 Project Source: https://github.com/vandersonmota/model_mommy    
 Project Documentation: http://model-mommy.readthedocs.org/en/latest/
+
+1. django-skel    
+A modern Django (1.5) project skeleton.    
+Project Source: https://github.com/rdegges/django-skel     
+Project Documentation: http://django-skel.readthedocs.org/en/latest/   
+
+1. mongodb-engine   
+Django MongoDB Backend.      
+Project Source:  https://github.com/django-nonrel/mongodb-engine  
+
+1. django-jsonfield    
+A reusable JSONField model for Django to store ad-hoc data.     
+Project Source: https://github.com/bradjasper/django-jsonfield    
          
 1. flask  
 Flask is a microframework for Python based on Werkzeug and Jinja2.  
@@ -300,6 +313,10 @@ project Hoempage: https://jackstouffer.github.io/Flask-Foundation/
 Browsable web APIs for Flask.   
 Project Source: https://github.com/tomchristie/flask-api    
 Project Homepage: http://www.flaskapi.org/
+
+1. angular-flask    
+An AngularJS (frontend) + Flask / Python (backend) Boilerplate Application.     
+Project Source: https://github.com/shea256/angular-flask     
 
 1. eve  
 Eve is an out-of-the-box, highly customizable and fully featured RESTful Web API framework that you can use to effortlessly build and deploy your own APIs.  

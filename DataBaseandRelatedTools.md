@@ -98,5 +98,3 @@ Project Source: https://github.com/namlook/mongokit
 A Python persistence framework for graph databases like Neo4j, OrientDB and Titan.    
 Project Source: https://github.com/espeed/bulbs   
 Project Homepage: http://bulbflow.com/   
-
-   

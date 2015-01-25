@@ -63,4 +63,3 @@ Project Source: https://github.com/FZambia/centrifuge
 pyjs is a Rich Internet Application (RIA) Development Platform for both Web and Desktop.    
 Project Source: https://github.com/pyjs/pyjs    
 Project Homepage: http://pyjs.org/  
-

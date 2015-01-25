@@ -36,4 +36,10 @@ Project Source: https://github.com/gnemoug/distribute_crawler
 A spider system in python.    
 Project Source: https://github.com/binux/pyspider    
 
+1. tagger    
+A Python module for extracting relevant tags from text documents.    
+Project Source: https://github.com/apresta/tagger  
 
+1. cola    
+A distributed crawling framework.    
+Project Source: https://github.com/chineking/cola    
