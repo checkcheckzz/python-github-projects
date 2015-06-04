@@ -19,11 +19,6 @@ Project Homepage: http://click.pocoo.org/
 HTTPie is a command line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible.  
 Project Source: https://github.com/jakubroztocil/httpie
 
-1. docopt  
-Pythonic command line arguments parser, that will make you smile.  
-Project Source: https://github.com/docopt/docopt  
-Project Homepage: http://docopt.org/
-
 1. glue  
 Glue is a simple command line tool to generate sprites.  
 Project Source: https://github.com/jorgebastida/glue  
