@@ -61,11 +61,6 @@ Project Source: https://github.com/dotcloud/docker-py
 Python library implementing the full GitHub API v3.   
 Project Source: https://github.com/jacquev6/PyGithub   
 
-1. praw   
-A python package that allows for simple access to reddit's API.     
-Project Source: https://github.com/praw-dev/praw      
-Project Documentation: https://praw.readthedocs.org/en/v2.1.16/
-
 1. sinaweibopy   
 Sina Weibo Python SDK.    
 Project Source: https://github.com/michaelliao/sinaweibopy      
