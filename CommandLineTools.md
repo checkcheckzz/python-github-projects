@@ -8,7 +8,7 @@ Project Homepage: http://docopt.org/
 1. clint  
 Clint is a module filled with a set of awesome tools for developing command line applications.  
 Project Source: https://github.com/kennethreitz/clint  
-Projcet Homepage: https://pypi.python.org/pypi/clint/
+Project Homepage: https://pypi.python.org/pypi/clint/
 
 1. click  
 click is a package for creating beautiful command line interfaces in a composable way with as little amount of code as necessary.  

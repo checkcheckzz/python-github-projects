@@ -3,7 +3,7 @@
 1. GitGutter  
 A sublime text plugin to show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.  
 Project Source: https://github.com/jisaacks/GitGutter  
-Porject Homepage: http://www.jisaacks.com/gitgutter
+Project Homepage: http://www.jisaacks.com/gitgutter
 
 1. python-mode  
 Python-mode is a vim plugin that helps you to create python code very quickly.  
@@ -59,7 +59,7 @@ Project Source: https://github.com/lunixbochs/actualvim
 
 1. MarkdownEditing  
 Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.  
-Proejct Source: https://github.com/SublimeText-Markdown/MarkdownEditing   
+Project Source: https://github.com/SublimeText-Markdown/MarkdownEditing   
   
 1. AngularJS-sublime-package  
 AngularJS code completion, snippets, go to definition, quick panel search, and more.   

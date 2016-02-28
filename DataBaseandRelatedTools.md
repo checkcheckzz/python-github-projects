@@ -26,7 +26,7 @@ Project Homepage: https://dataset.readthedocs.org/en/latest/
 
 1. redis-rdb-tools  
 Rdbtools is a parser for Redis' dump.rdb files. The parser generates events similar to an xml sax parser, and is very efficient memory wise.  
-Proejct Source: https://github.com/sripathikrishnan/redis-rdb-tools 
+Project Source: https://github.com/sripathikrishnan/redis-rdb-tools 
 
 1. swift  
 A distributed object storage system designed to scale from a single machine to thousands of servers.   
@@ -55,7 +55,7 @@ Project Source: https://github.com/PyMySQL/PyMySQL
 WAL-E is a program designed to perform continuous archiving of PostgreSQL WAL files and base backups.   
 Project Source: https://github.com/wal-e/wal-e 
 
-1.  twissandra  
+1. twissandra  
 Twissandra is an example project, created to learn and demonstrate how to use Cassandra.   
 Project Source: https://github.com/twissandra/twissandra  
 

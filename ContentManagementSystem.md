@@ -16,7 +16,7 @@ Project Homepage: http://www.feincms.org/
   
 1. wagtail  
 A new Django content management system  
-Proeject Source: https://github.com/torchbox/wagtail  
+Project Source: https://github.com/torchbox/wagtail  
 Project Homepage: http://wagtail.io/
 
 1. mezzanine  

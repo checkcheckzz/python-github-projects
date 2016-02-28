@@ -26,7 +26,7 @@ Project Website: http://gmvault.org/
 
 1. imbox  
 Python library for reading IMAP mailboxes and converting email content to machine readable data.   
-Proeject Source: https://github.com/martinrusev/imbox. 
+Project Source: https://github.com/martinrusev/imbox. 
 
 1. mailin   
 Artisanal inbound emails for every web app.   

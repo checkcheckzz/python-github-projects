@@ -15,7 +15,7 @@ Project Source: https://github.com/omab/django-social-auth
 Project Documentation: http://django-social-auth.readthedocs.org/en/latest/
 
 1. django-allauth  
-ntegrated set of Django applications addressing authentication, registration, account management as well as 3rd party account authentication.  
+Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party account authentication.  
 Project Source: https://github.com/pennersr/django-allauth  
 Project Homepage: http://www.intenct.nl/projects/django-allauth/
 

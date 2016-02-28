@@ -11,7 +11,7 @@ Project Source: https://github.com/quantopian/zipline
 1. beets  
 Beets is the media library management system for obsessive-compulsive music geeks.  
 Project Source: https://github.com/sampsyo/beets  
-Projcet Homepage: http://beets.radbox.org/
+Project Homepage: http://beets.radbox.org/
 
 1. howdoi  
 Instant coding answers via the command line.  
@@ -64,7 +64,7 @@ Project Source: https://github.com/asciimoo/drawille
 
 1. Feedly  
 Feedly is a Python library, which allows you to build newsfeed and notification systems using Cassandra and/or Redis.   
-project Source: https://github.com/tschellenbach/Feedly     
+Project Source: https://github.com/tschellenbach/Feedly     
 Project Documentation: https://feedly.readthedocs.org/en/latest/   
 
 1. ninja-ide   
