@@ -8,7 +8,7 @@ Project Homepage: http://python-rq.org/
 1. luigi  
 Luigi is a package that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.  
 Project Source: https://github.com/spotify/luigi  
-Prject Documentation: http://luigi.readthedocs.org/en/latest/api/luigi.html  
+Project Documentation: http://luigi.readthedocs.org/en/latest/api/luigi.html  
 
 1. celery  
 Task queues are used as a mechanism to distribute work across threads or machines.  

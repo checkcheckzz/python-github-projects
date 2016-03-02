@@ -58,11 +58,11 @@ Project Homepage: http://shipyard-project.com/
 1. kivy  
 Kivy is a Python framework for the development of multi-touch enabled media rich applications.  
 Project Source: https://github.com/kivy/kivy  
-Projecy Homepage: http://kivy.org/
+Project Homepage: http://kivy.org/
 
 1. deis  
 Deis is an open source PaaS that makes it easy to deploy and manage applications on your own servers.  
-Projecy Source: https://github.com/deis/deis  
+Project Source: https://github.com/deis/deis  
 Project Homepage: http://deis.io/
    
 1. blueprint  

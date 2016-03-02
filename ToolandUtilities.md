@@ -217,7 +217,7 @@ Project Homepage: http://qtile.org/
     
 1. doge   
 doge is a simple motd script based on the slightly stupid but very funny doge meme. It prints random grammatically incorrect statements that are sometimes based on things from your computer.  
-Proejct Source: https://github.com/thiderman/doge   
+Project Source: https://github.com/thiderman/doge   
 Project Documentation: https://pypi.python.org/pypi/doge/  
 
 1. wssh  

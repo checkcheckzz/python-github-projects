@@ -43,4 +43,6 @@ Image Processing SciKit
 Project Source: https://github.com/scikit-image/scikit-image    
 Project Homepage: http://scikit-image.org/
 
-  
+1. imutils
+A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
+Project Source: https://github.com/jrosebr1/imutils
