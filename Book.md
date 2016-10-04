@@ -36,7 +36,7 @@ Project Source: https://github.com/jrjohansson/scientific-python-lectures
 
 1. curriculum   
 Ops School Curriculum. Ops School is a comprehensive program that will help you learn to be an operations engineer.       
-Project Source: shttps://github.com/opsschool/curriculum    
+Project Source: https://github.com/opsschool/curriculum    
 Online Book Address: http://www.opsschool.org/en/latest/ 
 
 1. scipy-lecture-notes   
