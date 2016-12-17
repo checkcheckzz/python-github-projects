@@ -37,5 +37,9 @@ Project Homepage: http://splinter.cobrateam.info/
 1. sixpack  
 Sixpack is a language-agnostic a/b-testing framework.   
 Project Source: https://github.com/seatgeek/sixpack   
-Project Homepage: http://sixpack.seatgeek.com/  
-     
+Project Homepage: http://sixpack.seatgeek.com/
+
+1. owtf  
+OWASP Offensive Web Testing Framework is a project focused on penetration testing efficiency and alignment of security tests to security standards like: The OWASP Testing Guide (v3 and v4), the OWASP Top 10, PTES and NIST.   
+Project Source: https://github.com/owtf/owtf  
+Project Homepage: https://www.owasp.org/index.php/OWASP_OWTF     
