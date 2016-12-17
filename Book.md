@@ -53,7 +53,7 @@ The right place to learn everything you need to deploy and run a production Pyth
 Project Source: https://github.com/makaimc/fullstackpython.github.com  
 Online Book Address: http://www.fullstackpython.com/
 
-1. ThinkDSP
+1. ThinkDSP  
 LaTeX source and Python code for Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
 Project Source: https://github.com/AllenDowney/ThinkDSP
 Online Book Address: http://greenteapress.com/thinkdsp/  
