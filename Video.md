@@ -33,6 +33,18 @@ A YouTube/Youku/Niconico video downloader written in Python 3.
 Project Source: https://github.com/soimort/you-get   
 Project Homepage: http://www.soimort.org/you-get/   
 
-1. SickRage   
-SickRage - Searches TheTVDB and TVRage for shows.    
-Project Source: https://github.com/echel0n/SickRage    
+1. SiCKRAGETV  
+SickRage - Searches TheTVDB for shows.    
+Project Source: https://github.com/SiCKRAGETV/SiCKRAGE
+
+1. SickRage  
+SickRage - Searches TheTVDB for shows.    
+Project Source: https://github.com/SickRage/SickRage
+
+1. SickGear  
+SickGear, a usenet and bittorrent PVR  
+Project Source: https://github.com/SickGear/SickGear
+
+1. Medusa  
+Medusa: Take full control of your PVR.  Select the results YOU want! Supports TVMaze, TMDB, and TVDB.  
+Project Source: https://github.com/pymedusa/medusa
