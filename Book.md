@@ -5,6 +5,10 @@ Source Code for the book Machine Learning Systems with Python
 Project Source: https://github.com/luispedro/BuildingMachineLearningSystemsWithPython
 Online Book Address: http://www.packtpub.com/building-machine-learning-systems-with-python/book 
 
+1. calibre  
+calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats.   
+Project Source: https://github.com/kovidgoyal/calibre
+
 1. curriculum   
 Ops School Curriculum. Ops School is a comprehensive program that will help you learn to be an operations engineer.       
 Project Source: https://github.com/opsschool/curriculum    
