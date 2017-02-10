@@ -1,5 +1,9 @@
 ##Book
 
+1. calibre  
+calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats.   
+Project Source: https://github.com/kovidgoyal/calibre
+
 1. python-guide  
 This guide exists to provide both novice and expert Python developers a best-practice handbook to the installation, configuration, and usage of Python on a daily basis.  
 Project Source: https://github.com/kennethreitz/python-guide  
