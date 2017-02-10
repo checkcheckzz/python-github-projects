@@ -1,5 +1,10 @@
 ##Audio
 
+1. beets  
+Beets is the media library management system for obsessive-compulsive music geeks.  
+Project Source: https://github.com/sampsyo/beets  
+Project Homepage: http://beets.radbox.org/
+
 1. headphones  
 Automatic music downloader for SABnzbd.  
 Project Source: https://github.com/rembo10/headphones 
