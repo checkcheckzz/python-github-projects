@@ -1,4 +1,4 @@
-##Mail  
+## Mail  
 
 1. Mailpile  
 Mailpile is a modern, fast web-mail client with user-friendly encryption and privacy features.  

@@ -1,4 +1,4 @@
-#Authentication
+# Authentication
 
 1. django-allauth  
 Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party account authentication.  

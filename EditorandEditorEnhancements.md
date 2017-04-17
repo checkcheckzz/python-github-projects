@@ -1,4 +1,4 @@
-##Editor and Editor Enhancements 
+## Editor and Editor Enhancements 
 
 1. GitGutter  
 A sublime text plugin to show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.  
