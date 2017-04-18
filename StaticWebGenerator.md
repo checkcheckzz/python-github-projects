@@ -1,4 +1,4 @@
-##Static Web Generator
+## Static Web Generator
 
 1. pelican  
 Static site generator that supports Markdown and reST syntax.  

@@ -1,4 +1,4 @@
-##Git 
+## Git 
 
 1. legit  
 Legit is a complementary command-line interface for Git, optimized for workflow simplicity.  

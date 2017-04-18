@@ -52,7 +52,7 @@ send me a pull request and follow the [contribution guide](https://github.com/ch
 * [Web Mining](https://github.com/checkcheckzz/Python-open-projects/blob/master/WebMining.md)
 * [Web Site Source](https://github.com/checkcheckzz/Python-open-projects/blob/master/WebSiteSource.md)
 
-###License
+### License
 
 Python-github-projects is licensed under the [CC-By 3.0 License](http://creativecommons.org/licenses/by/3.0/).
 

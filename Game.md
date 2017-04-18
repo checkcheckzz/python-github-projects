@@ -1,4 +1,4 @@
-##Game
+## Game
 
 1. Minecraft  
 Simple Minecraft-inspired demo written in Python and Pyglet.  

@@ -1,4 +1,4 @@
-##Image
+## Image
 
 1. Pillow  
 Python Imaging Library.  
