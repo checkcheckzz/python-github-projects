@@ -355,3 +355,7 @@ Project Website: http://www.mypy-lang.org/
 Repository for the Astropy core package.     
 Project Source: https://github.com/astropy/astropy    
 Project Website: http://www.astropy.org/ 
+
+1. Sorter     
+A program that organises/sorts files into directories named by type/extension.     
+Project Source: https://github.com/giantas/sorter
