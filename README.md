@@ -16,6 +16,7 @@ send me a pull request and follow the [contribution guide](https://github.com/ch
 
 ### <a name='toc'>Table of Contents</a>
 
+* [AI](https://github.com/checkcheckzz/Python-open-projects/blob/master/AI.md)
 * [Algorithm](https://github.com/checkcheckzz/Python-open-projects/blob/master/Algorithm.md)
 * [Audio](https://github.com/checkcheckzz/Python-open-projects/blob/master/Audio.md)
 * [Authentication](https://github.com/checkcheckzz/Python-open-projects/blob/master/Authentication.md)

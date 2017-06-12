@@ -18,7 +18,7 @@ Project Homepage: http://willdrevo.com/fingerprinting-and-audio-recognition-with
 
 1. headphones  
 Automatic music downloader for SABnzbd.  
-Project Source: https://github.com/rembo10/headphones 
+Project Source: https://github.com/rembo10/headphones
 
 1. jasper-client  
 Client code for the Jasper voice computing platform. Jasper is an open source platform for developing always-on, voice-controlled applications.  
@@ -43,7 +43,11 @@ Project Documentation: https://pypi.python.org/pypi/shiva
 A client library for an unofficial Google Music api.  
 Project Source: https://github.com/simon-weber/Unofficial-Google-Music-API  
 Project Documentation: http://unofficial-google-music-api.readthedocs.org/en/latest/   
- 
+
 1. youku-lixian  
 Youku download script.   
 Project Source: https://github.com/iambus/youku-lixian
+
+1. filtering-stft-and-laplace-transform  
+Simple demo of filtering signal with an LP filter and plotting its STFT and Laplace transform, in Python.   
+Project Source: https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform
