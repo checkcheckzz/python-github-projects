@@ -173,3 +173,8 @@ Project Source: https://github.com/SublimeText/Origami
 EditorConfig plugin for Vim.   
 Project Source: https://github.com/editorconfig/editorconfig-vim    
 Project Homepage: http://editorconfig.org/     
+
+1. PythonBuddy
+Live Online Python Syntax Checker.
+Project Source: https://github.com/ethanchewy/OnlinePythonLinterSyntaxChecker  
+Project Homepage: http://17chiue.pythonanywhere.com/     
