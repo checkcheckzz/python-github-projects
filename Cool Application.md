@@ -149,3 +149,7 @@ Project Homepage: https://www.gittip.com/
 1. zipline  
 Zipline is a Pythonic algorithmic trading library. The system is fundamentally event-driven and a close approximation of how live-trading systems operate.  
 Project Source: https://github.com/quantopian/zipline
+
+1. https://speakerfight.com
+The Easier way to choose the best talks. Speakerfight is a online call for papers platform with support for accepting proposals, voting and embedded schedule of talks, is built using Django and maintained by the Python Brasil Community since 2014.
+Project Source: https://github.com/luanfonceca/speakerfight
