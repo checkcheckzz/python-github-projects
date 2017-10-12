@@ -40,4 +40,8 @@ Project Source: https://github.com/arc90/git-sweep
 The highly caffeinated Git GUI.   
 Project Source: https://github.com/git-cola/git-cola   
 Project Homepage: http://git-cola.github.io/  
-	 
+
+1. gitsome   
+A supercharged Git/GitHub command line interface (CLI)   
+Project Source: https://github.com/donnemartin/gitsome   
+
