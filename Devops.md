@@ -281,3 +281,7 @@ Project Source: https://github.com/joerick/pyinstrument
 1. maestro-ng    
 A command-line utility that allows for automatically managing the orchestrated deployment and bring up of a set of service instance containers that compose an environment on a set of target host machines.    
 Project Source: https://github.com/signalfuse/maestro-ng    
+
+1. nebula container orchestrator
+A Docker orchestration tool designed to manage massive scale distributed clusters.
+Project Source: http://nebula.readthedocs.io/en/latest/
