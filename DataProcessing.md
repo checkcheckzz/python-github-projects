@@ -36,4 +36,9 @@ Online Demo Address: http://jiebademo.ap01.aws.af.cm/
 Light-weight Python OLAP framework for multi-dimensional data analysis.   
 Project Source: https://github.com/Stiivi/cubes   
 Project Homepage: http://cubes.databrewery.org/  
+
+1. OpenMapTiles   
+Set of tools for transforming OpenStreetMap data into MBTiles and further into web maps.   
+Project Source: https://github.com/openmaptiles   
+Project Homepage: https://openmaptiles.org/   
    
