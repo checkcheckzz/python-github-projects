@@ -1,0 +1,53 @@
+import pyttsx3
+import speech_recognition as sr
+
+import datetime 
+
+engine = pyttsx3.init('sapi5')
+voices = engine.getProperty('voices')
+# print(voices)
+engine.setProperty('voice', voices[0].id)
+
+
+
+
+def speak(audio):
+    engine.say(audio)
+    engine.runAndWait()
+
+
+def wishMe():
+    hour = int(datetime.datetime.now().hour)
+    if hour>=0 and hour<12:
+        speak("good morning")
+
+
+    elif hour>=12 and hour<18:
+        speak("good afternoon")
+    
+    else:
+        speak("good evening")
+
+    speak("I am jarvis hello sir tell me what to do")
+
+def takeCommand():
+    r = sr.Recognizer()
+    with sr.Microphone() as source:
+        print("listening...")
+        r.pause_threshold = 1
+        audio = r.listen(source)
+    
+    try:
+        print("Recognizing...")
+        query = r.recognize_google(audio, language='en-in')
+        print("user said:", query)
+
+    except  Exception == e:
+        print("say that again please..")
+        return "none"
+        return query
+
+
+if __name__ == "__main__":
+    wishMe()
+    takeCommand()
