@@ -262,7 +262,7 @@ One command to have a working virtualenv + virtualenvwrapper environment.
 Project Source: https://github.com/brainsik/virtualenv-burrito  
 
 1. maestro  
-Maestro provides the ability to easily launch, orchestrate and manage mulitple Docker containers as single unit.   
+Maestro provides the ability to easily launch, orchestrate and manage multiple Docker containers as single unit.   
 Project Source: https://github.com/toscanini/maestro     
 
 1. python-lust  

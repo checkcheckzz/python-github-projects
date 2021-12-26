@@ -11,7 +11,7 @@ Project Source: https://github.com/wrobstory/vincent
 Project Documentation: https://vincent.readthedocs.org/en/latest/
 
 1. d3py  
-A plottling library for python, based on D3.  
+A plotting library for python, based on D3.  
 Project Source: https://github.com/mikedewar/d3py  
 
 1. seaborn    

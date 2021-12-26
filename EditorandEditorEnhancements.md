@@ -24,7 +24,7 @@ DocBlockr is a package for Sublime Text which makes writing documentation a bree
 Project Source:  https://github.com/spadgos/sublime-jsdocs  
 
 1. gmate  
-Set of plugins and improvements to make Gedit a powerfull programmer text editor.  
+Set of plugins and improvements to make Gedit a powerful programmer text editor.  
 Project Source: https://github.com/gmate/gmate  
 
 1. sublimetext-markdown-preview  
@@ -108,7 +108,7 @@ Project Source: https://github.com/guillermooo/Vintageous
 Project Homepage: http://guillermooo.bitbucket.org/Vintageous/  
 
 1. Stino  
-Stino is a Sublime Text plugin, which provides an Arduino-like environement for editing, compiling and uploading sketches.   
+Stino is a Sublime Text plugin, which provides an Arduino-like environment for editing, compiling and uploading sketches.   
 Project Source: https://github.com/Robot-Will/Stino   
 
 1. editorconfig-sublime   
